@@ -5,17 +5,17 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 
 |Name|Link|Text to Text|Image to Text|Text to Image|Text to Speech|Speech to Text|
 |---|---|---|---|---|---|---|
-|Pollinations|Optional|✅|✅|✅|✅|✅|
-|Cerebras|Mandatory|✅|✅|❌|❌|❌|
-|Groq|Mandatory|✅|❌|❌|❌|❌|
-|Google AI Studio|Mandatory|✅|✅|✅|✅|✅|
-|Mistral|Mandatory|✅|❌|❌|❌|❌|
-|Cohere|Mandatory|✅|❌|❌|❌|❌|
-|OpenRouter|Mandatory|✅|✅|❌|❌|❌|
-|ElectronHub AI|Mandatory|✅|❌|✅|❌|❌|
-|Navy AI|Mandatory|✅|❌|❌|❌|❌|
-|Bytez|Mandatory|✅|❌|❌|❌|❌|
-|Cloudflare Workers|Mandatory|✅|❌|❌|❌|❌|
-|Void AI|Mandatory|✅|❌|❌|❌|❌|
-|MNN AI|Mandatory|✅|❌|❌|❌|❌|
-|AI-ML API|Mandatory|✅|❌|❌|❌|❌|
+|Pollinations|[GO](https://pollinations.ai/)|✅|✅|✅|✅|✅|
+|Cerebras|[GO](https://cerebras.ai/)|✅|✅|❌|❌|❌|
+|Groq|[GO](https://groq.com/)|✅|❌|❌|❌|❌|
+|Google AI Studio|[GO](https://ai.google/)|✅|✅|✅|✅|✅|
+|Mistral|[GO](https://mistral.ai/)|✅|❌|❌|❌|❌|
+|Cohere|[GO](https://cohere.ai/)|✅|❌|❌|❌|❌|
+|OpenRouter|[GO](https://openrouter.ai/)|✅|✅|❌|❌|❌|
+|ElectronHub AI|[GO](https://electronhub.ai/)|✅|❌|✅|❌|❌|
+|Navy AI|[GO](https://api.navy/)|✅|❌|❌|❌|❌|
+|Bytez|[GO](https://bytez.com/)|✅|❌|❌|❌|❌|
+|Cloudflare Workers|[GO](https://cloudflare.com/)|✅|❌|❌|❌|❌|
+|Void AI|[GO](https://voidai.app/)|✅|❌|❌|❌|❌|
+|MNN AI|[GO](https://mnnai.ru/)|✅|❌|❌|❌|❌|
+|AI-ML API|[GO](https://aimlapi.com/app/)|✅|❌|❌|❌|❌|
