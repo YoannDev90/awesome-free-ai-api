@@ -692,3 +692,72 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 | Mancer: Weaver (alpha)                                        | Text        | Text         |
 
 </details>
+
+### OpenRouter
+
+<details>
+<summary>OpenRouter Models</summary>
+
+| Name |
+|------|
+| NVIDIA: Nemotron Nano 9B V2 (free) |
+| Sonoma Dusk Alpha |
+| Sonoma Sky Alpha |
+| DeepSeek: DeepSeek V3.1 (free) |
+| OpenAI: gpt-oss-120b (free) |
+| OpenAI: gpt-oss-20b (free) |
+| Z.AI: GLM 4.5 Air (free) |
+| Qwen: Qwen3 Coder 480B A35B (free) |
+| MoonshotAI: Kimi K2 0711 (free) |
+| Venice: Uncensored (free) |
+| Google: Gemma 3n 2B (free) |
+| Tencent: Hunyuan A13B Instruct (free) |
+| TNG: DeepSeek R1T2 Chimera (free) |
+| Mistral: Mistral Small 3.2 24B (free) |
+| MoonshotAI: Kimi Dev 72B (free) |
+| DeepSeek: Deepseek R1 0528 Qwen3 8B (free) |
+| DeepSeek: R1 0528 (free) |
+| Mistral: Devstral Small 2505 (free) |
+| Google: Gemma 3n 4B (free) |
+| Meta: Llama 3.3 8B Instruct (free) |
+| Qwen: Qwen3 4B (free) |
+| Qwen: Qwen3 30B A3B (free) |
+| Qwen: Qwen3 8B (free) |
+| Qwen: Qwen3 14B (free) |
+| Qwen: Qwen3 235B A22B (free) |
+| TNG: DeepSeek R1T Chimera (free) |
+| Microsoft: MAI DS R1 (free) |
+| Shisa AI: Shisa V2 Llama 3.3 70B (free) |
+| ArliAI: QwQ 32B RpR v1 (free) |
+| Agentica: Deepcoder 14B Preview (free) |
+| MoonshotAI: Kimi VL A3B Thinking (free) |
+| NVIDIA: Llama 3.1 Nemotron Ultra 253B v1 (free) |
+| Meta: Llama 4 Maverick (free) |
+| Meta: Llama 4 Scout (free) |
+| Qwen: Qwen2.5 VL 32B Instruct (free) |
+| DeepSeek: DeepSeek V3 0324 (free) |
+| Mistral: Mistral Small 3.1 24B (free) |
+| Google: Gemma 3 4B (free) |
+| Google: Gemma 3 12B (free) |
+| Reka: Flash 3 (free) |
+| Google: Gemma 3 27B (free) |
+| Qwen: QwQ 32B (free) |
+| Nous: DeepHermes 3 Llama 3 8B Preview (free) |
+| Dolphin3.0 R1 Mistral 24B (free) |
+| Dolphin3.0 Mistral 24B (free) |
+| Qwen: Qwen2.5 VL 72B Instruct (free) |
+| Mistral: Mistral Small 3 (free) |
+| DeepSeek: R1 Distill Qwen 14B (free) |
+| DeepSeek: R1 Distill Llama 70B (free) |
+| DeepSeek: R1 (free) |
+| Google: Gemini 2.0 Flash Experimental (free) |
+| Meta: Llama 3.3 70B Instruct (free) |
+| Qwen2.5 Coder 32B Instruct (free) |
+| Meta: Llama 3.2 3B Instruct (free) |
+| Qwen2.5 72B Instruct (free) |
+| Meta: Llama 3.1 405B Instruct (free) |
+| Mistral: Mistral Nemo (free) |
+| Google: Gemma 2 9B (free) |
+| Mistral: Mistral 7B Instruct (free) |
+
+</details>
