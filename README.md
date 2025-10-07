@@ -21,7 +21,9 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 | Void AI              | [GO](https://voidai.app/)            | [GO](https://voidai.app/models)                                       | Many models              | Limited documentation       |
 | MNN AI               | [GO](https://mnnai.ru/)              | [GO](https://mnnai.ru/models)                                         | Many models              | ?                           |
 | AI-ML API            | [GO](https://aimlapi.com/app/)       | [GO](https://aimlapi.com/models)                                      | User-friendly            | Very limited models         |
+| Ollama Cloud         | [GO](https://ollama.com/)            | [GO](https://ollama.com/api/tags)                                     | No limits                | Very limited models         |
 
 ## Updates :
 
 - 05 October 2025 : Remove models list, because I can't monitor every API every time.
+- 07 October 2025 : Add Ollama Cloud to the list
