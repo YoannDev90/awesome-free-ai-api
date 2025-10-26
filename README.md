@@ -23,9 +23,11 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 | AI-ML API            | [GO](https://aimlapi.com/app/)       | [GO](https://aimlapi.com/models)                                      | User-friendly            | Only 5 models               |
 | Ollama Cloud         | [GO](https://ollama.com/)            | [GO](https://ollama.com/api/tags)                                     | No limits                | Only 7 models               |
 | IO-Intelligence      | [GO](https://io.net/)                | [GO](https://ai.io.net/ai/models)                                     | ?                        | Only 14 models              |
+| NagaAI | [GO](https://naga.ac/) | [GO](https://naga.ac/models) | Only some models are free to use | ?
 
 ## Updates :
 
 - 05 October 2025 : Remove models list, because I can't monitor every API every time.
 - 07 October 2025 : Add Ollama Cloud to the list
 - 16 October 2025 :  Add IO-Intelligence to the list
+- 26 October 2025 : Add NagaAI to the list
