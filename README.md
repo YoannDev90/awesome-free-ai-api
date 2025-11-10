@@ -27,6 +27,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 | [OhMyGPT](https://www.ohmygpt.com/pricing)                                 | Unlimited moderation models | Only 7 models           |
 | [LLM-Gateway](https://llmgateway.io/models?filters=1&free=true)            | 10 free models              | May be unstable         |
 | [LLM7](https://llm7.io)                                                    | 10 free models              | Depends on Pollinations |
+| [Anannas AI](https://anannas.ai/models) | 17 free models | Not tried yet |
 
 ## Updates :
 
@@ -36,4 +37,4 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 - 26 October 2025 : Add NagaAI to the list
 - 27 October 2025 : Add OhMyGPT to the list
 - 09 November 2025 : Add LLM-Gateway to the list
-- 10 November 2025 : Add LLM7 to the list
+- 10 November 2025 : Add LLM7 + Anannas AI to the list
