@@ -25,6 +25,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 | [IO-Intelligence](https://ai.io.net/ai/models)                             | ?                           | Only 14 models              |
 | [NagaAI](https://naga.ac/models)                                           | Unlimited moderation models | ?                           |
 | [OhMyGPT](https://www.ohmygpt.com/pricing)                                 | Unlimited moderation models | Only 7 models               |
+| [LLM-Gateway](https://llmgateway.io/models?filters=1&free=true)            | 10 free models              | May be unstable             |
 
 ## Updates :
 
@@ -32,4 +33,5 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 - 07 October 2025 : Add Ollama Cloud to the list
 - 16 October 2025 : Add IO-Intelligence to the list
 - 26 October 2025 : Add NagaAI to the list
-- 27 October 2025 : Add OhMyGPT to the list + remove the 'models' column
+- 27 October 2025 : Add OhMyGPT to the list
+- 10 November 2025 : Add LLM-Gateway to the list
