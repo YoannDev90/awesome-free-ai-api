@@ -6,8 +6,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 
 | Name                                                                       | Pros                        | Cons                    |
 |----------------------------------------------------------------------------|-----------------------------|-------------------------|
-| [Pollinations (Text)](https://text.pollinations.ai/models)                 | Unlimited requests          | May be down sometime    |
-| [Pollinations (Image)](https://image.pollinations.ai/models)               | Premium unlimited models    | May be down sometime    |
+| [Pollinations](https://enter.pollinations.ai/)                             | Many models + community     | Now requires an account |
 | [Cerebras](https://inference-docs.cerebras.ai/models/overview)             | High performance            | Limited model variety   |
 | [Groq](https://console.groq.com/docs/models)                               | Fast inference              | Limited model variety   |
 | [Google AI Studio](https://ai.google.dev/gemini-api/docs/models)           | User-friendly               | Requires account        |
@@ -27,7 +26,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 | [OhMyGPT](https://www.ohmygpt.com/pricing)                                 | Unlimited moderation models | Only 7 models           |
 | [LLM-Gateway](https://llmgateway.io/models?filters=1&free=true)            | 10 free models              | May be unstable         |
 | [LLM7](https://llm7.io)                                                    | 10 free models              | Depends on Pollinations |
-| [Anannas AI](https://anannas.ai/models) | 17 free models | Not tried yet |
+| [Anannas AI](https://anannas.ai/models)                                    | 17 free models              | Not tried yet           |
 
 ## Updates :
 
@@ -38,3 +37,4 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 - 27 October 2025 : Add OhMyGPT to the list
 - 09 November 2025 : Add LLM-Gateway to the list
 - 10 November 2025 : Add LLM7 + Anannas AI to the list
+- 04 December 2025 : Update Pollinations link to use [ENTER](https://enter.pollinations.ai) instead of [OLD-TEXT](https://text.pollinations.ai) and [OLD-IMAGE](https://image.pollinations.ai)
