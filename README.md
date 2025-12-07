@@ -19,18 +19,16 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 | [Cloudflare Workers](https://developers.cloudflare.com/workers-ai/models/) | Fast deployment             | Requires account        |
 | [Void AI](https://voidai.app/models)                                       | Many models                 | Limited docs            |
 | [MNN AI](https://mnnai.ru/models)                                          | Many models                 | ?                       |
-| [AI-ML API](https://aimlapi.com/models)                                    | User-friendly               | Only 4 models           |
 | [Ollama Cloud](https://ollama.com/api/tags)                                | Open-source models          | Only 7 models           |
 | [IO-Intelligence](https://ai.io.net/ai/models)                             | ?                           | Only 14 models          |
 | [NagaAI](https://naga.ac/models)                                           | Unlimited moderation models | ?                       |
 | [OhMyGPT](https://www.ohmygpt.com/pricing)                                 | Unlimited moderation models | Only 7 models           |
 | [LLM-Gateway](https://llmgateway.io/models?filters=1&free=true)            | 10 free models              | May be unstable         |
 | [LLM7](https://llm7.io)                                                    | 10 free models              | Depends on Pollinations |
-| [Anannas AI](https://anannas.ai/models)                                    | 17 free models              | Not tried yet           |
 
 ## Updates :
 
-- 05 October 2025 : Remove models list, because I can't monitor every API every time.
+- 05 October 2025 : Remove models list, because I can't monitor every API every time
 - 07 October 2025 : Add Ollama Cloud to the list
 - 16 October 2025 : Add IO-Intelligence to the list
 - 26 October 2025 : Add NagaAI to the list
@@ -38,3 +36,4 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 - 09 November 2025 : Add LLM-Gateway to the list
 - 10 November 2025 : Add LLM7 + Anannas AI to the list
 - 04 December 2025 : Update Pollinations link to use [ENTER](https://enter.pollinations.ai) instead of [OLD-TEXT](https://text.pollinations.ai) and [OLD-IMAGE](https://image.pollinations.ai)
+- 07 December 2025 : Delete AI/ML API and Anannas AI because there're no more free models
