@@ -4,6 +4,8 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 
 ![GitHub stars](https://img.shields.io/github/stars/YoannDev90/awesome-free-ai-api?style=flat-square) ![GitHub forks](https://img.shields.io/github/forks/YoannDev90/awesome-free-ai-api?style=flat-square) ![GitHub issues](https://img.shields.io/github/issues/YoannDev90/awesome-free-ai-api?style=flat-square) ![GitHub pull requests](https://img.shields.io/github/issues-pr/YoannDev90/awesome-free-ai-api?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/YoannDev90/awesome-free-ai-api?style=flat-square)
 
+![Alt](https://repobeats.axiom.co/api/embed/1e91e9854d6f1da8fb7d9123fe83345a334c7435.svg "Repobeats analytics image")
+
 <!-- TOC -->
 
 - [🤖 AWESOME FREE AI INFERENCE APIS](#-awesome-free-ai-inference-apis)
