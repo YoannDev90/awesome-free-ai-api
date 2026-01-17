@@ -43,7 +43,6 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 | [Void AI](https://voidai.app/models)                                       | [Details](APIS/void_ai.md)            |
 | [MNN AI](https://mnnai.ru/models)                                          | [Details](APIS/mnn_ai.md)             |
 | [Ollama Cloud](https://ollama.com/api/tags)                                | [Details](APIS/ollama_cloud.md)       |
-| [IO-Intelligence](https://ai.io.net/ai/models)                             | [Details](APIS/io-intelligence.md)    |
 | [NagaAI](https://naga.ac/models)                                           | [Details](APIS/nagaai.md)             |
 | [OhMyGPT](https://www.ohmygpt.com/pricing)                                 | [Details](APIS/ohmygpt.md)            |
 | [LLM-Gateway](https://llmgateway.io/models?filters=1&free=true)            | [Details](APIS/llm-gateway.md)        |
@@ -76,6 +75,7 @@ Free APIs can change or disappear without notice. Always check the official docu
 - 10 January 2026 : Add ZanityAI and MapleAI to the list
 - 10 January 2026 : Delete Bytez
 - 10 January 2026 : Change the repo architecture
+- 17 January 2026 : Delete Io.net
 
 ## Contributing
 
