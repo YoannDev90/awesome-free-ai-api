@@ -6,15 +6,21 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 
 ![Alt](https://repobeats.axiom.co/api/embed/1e91e9854d6f1da8fb7d9123fe83345a334c7435.svg "Repobeats analytics image")
 
+---
+
+**Thank you for contributing, sharing, and starring if you like this project!** ⭐
+
+---
+
 <!-- TOC -->
 
 - [🤖 AWESOME FREE AI INFERENCE APIS](#-awesome-free-ai-inference-apis)
-    - [Best for](#best-for)
-    - [API PROVIDERS](#api-providers)
-    - [Glossary](#glossary)
-    - [Disclaimer](#disclaimer)
-    - [Updates](#updates)
-    - [Contributing](#contributing)
+  - [Best for](#best-for)
+  - [API PROVIDERS](#api-providers)
+  - [Glossary](#glossary)
+  - [Disclaimer](#disclaimer)
+  - [Updates](#updates)
+  - [Contributing](#contributing)
 
 <!-- /TOC -->
 
@@ -77,6 +83,7 @@ Free APIs can change or disappear without notice. Always check the official docu
 - 10 January 2026 : Delete Bytez
 - 10 January 2026 : Change the repo architecture
 - 17 January 2026 : Delete Io.net
+- 20 January 2026 : Add Apertis AI to the list
 
 ## Contributing
 
