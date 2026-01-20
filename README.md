@@ -9,12 +9,12 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 <!-- TOC -->
 
 - [🤖 AWESOME FREE AI INFERENCE APIS](#-awesome-free-ai-inference-apis)
-  - [Best for](#best-for)
-  - [API PROVIDERS](#api-providers)
-  - [Glossary](#glossary)
-  - [Disclaimer](#disclaimer)
-  - [Updates](#updates)
-  - [Contributing](#contributing)
+    - [Best for](#best-for)
+    - [API PROVIDERS](#api-providers)
+    - [Glossary](#glossary)
+    - [Disclaimer](#disclaimer)
+    - [Updates](#updates)
+    - [Contributing](#contributing)
 
 <!-- /TOC -->
 
@@ -48,6 +48,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 | [OhMyGPT](https://www.ohmygpt.com/pricing)                                 | [Details](APIS/ohmygpt.md)            |
 | [LLM-Gateway](https://llmgateway.io/models?filters=1&free=true)            | [Details](APIS/llm-gateway.md)        |
 | [LLM7](https://llm7.io)                                                    | [Details](APIS/llm7.md)               |
+| [Apertis](https://apertis.ai/models?sort=price_low)                        | [Details](APIS/apertis.md)            |
 | [ZanityAI](https://zanity.xyz/v1/models)                                   | [Details](APIS/zanityai.md)           |
 | [MapleAI](https://www.mapleai.de/models)                                   | [Details](APIS/mapleai.md)            |
 
