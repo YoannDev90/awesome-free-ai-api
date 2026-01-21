@@ -19,17 +19,17 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 <!-- TOC -->
 
 - [🤖 AWESOME FREE AI INFERENCE APIS](#-awesome-free-ai-inference-apis)
-  - [Best for](#best-for)
-  - [API PROVIDERS](#api-providers)
-  - [Glossary](#glossary)
-  - [Disclaimer](#disclaimer)
-  - [Updates](#updates)
-  - [Contributing](#contributing)
-  - [Acknowledgements](#acknowledgements)
+  - [🏆 Best for](#-best-for)
+  - [🔗 API PROVIDERS](#-api-providers)
+  - [📖 Glossary](#-glossary)
+  - [⚠️ Disclaimer](#️-disclaimer)
+  - [♻️ Updates](#️-updates)
+  - [⛳ Contributing](#-contributing)
+  - [🎉 Acknowledgements](#-acknowledgements)
 
 <!-- /TOC -->
 
-## Best for
+## 🏆 Best for
 
 **Model choice** : ElectronHub / OpenRouter / Navy 🌟
 
@@ -37,7 +37,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 
 **Fast inference** : Cerebras / Groq ⚡
 
-## API PROVIDERS
+## 🔗 API PROVIDERS
 
 | Name                                                                       | More details >>                       |
 | -------------------------------------------------------------------------- | ------------------------------------- |
@@ -67,18 +67,18 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 | [PaxSenix API](https://api.paxsenix.org/docs)                              | [Details](APIS/paxsenix.md)          |
 
 
-## Glossary
+## 📖 Glossary
 
 - RPD: Requests Per Day
 - API limits: Restrictions on the number of API calls or usage allowed
 - Tokens per day: Maximum tokens (text units) allowed daily
 - Credits daily: Daily credit allowance for API usage
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 Free APIs can change or disappear without notice. Always check the official documentation for the latest information.
 
-## Updates
+## ♻️ Updates
 
 - 05 October 2025 : Remove models list
 - 07 October 2025 : Add Ollama Cloud to the list
@@ -99,7 +99,7 @@ Free APIs can change or disappear without notice. Always check the official docu
 - 21 January 2026 : Add PaxSenix API to the list
 - 21 January 2026 : Add Pydantic AI Gateway to the list
 
-## Contributing
+## ⛳ Contributing
 
 Contributions are welcome! To suggest a new API or update existing ones:
 
@@ -108,7 +108,7 @@ Contributions are welcome! To suggest a new API or update existing ones:
 
 Please ensure updates are accurate and follow the format.
 
-## Acknowledgements
+## 🎉 Acknowledgements
 
-@wi1d3n_yu4n (Discord)
-@redac1ed. (Discord)
+- @wi1d3n_yu4n (Discord)
+- @redac1ed. (Discord)
