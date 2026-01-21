@@ -25,6 +25,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
   - [Disclaimer](#disclaimer)
   - [Updates](#updates)
   - [Contributing](#contributing)
+  - [Acknowledgements](#acknowledgements)
 
 <!-- /TOC -->
 
@@ -62,6 +63,8 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 | [Apertis](https://apertis.ai/models?sort=price_low)                        | [Details](APIS/apertis.md)            |
 | [A4F](https://www.a4f.co/models)                                           | [Details](APIS/a4f.md)                |
 | [Pydantic AI Gateway](https://ai.pydantic.dev/gateway/)                    | [Details](APIS/pydantic_ai_gateway.md)|
+| [Requesty AI](https://www.requesty.ai/solution/llm-routing/models?price=free) | [Details](APIS/requesty_ai.md)        |
+| [PaxSenix API](https://api.paxsenix.org/docs)                              | [Details](APIS/paxsenix.md)          |
 
 
 ## Glossary
@@ -92,6 +95,8 @@ Free APIs can change or disappear without notice. Always check the official docu
 - 17 January 2026 : Delete Io.net
 - 20 January 2026 : Add Apertis AI to the list
 - 21 January 2026 : Add A4F to the list
+- 21 January 2026 : Add Requesty AI to the list
+- 21 January 2026 : Add PaxSenix API to the list
 - 21 January 2026 : Add Pydantic AI Gateway to the list
 
 ## Contributing
@@ -102,3 +107,8 @@ Contributions are welcome! To suggest a new API or update existing ones:
 - Submit a pull request with your changes.
 
 Please ensure updates are accurate and follow the format.
+
+## Acknowledgements
+
+@wi1d3n_yu4n (Discord)
+@redac1ed. (Discord)
