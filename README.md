@@ -2,7 +2,11 @@
 
 A list of APIs providing AI models, free of charge, as well as the models available. Regular updates.
 
-![GitHub stars](https://img.shields.io/github/stars/YoannDev90/awesome-free-ai-api?style=flat-square) ![GitHub forks](https://img.shields.io/github/forks/YoannDev90/awesome-free-ai-api?style=flat-square) ![GitHub issues](https://img.shields.io/github/issues/YoannDev90/awesome-free-ai-api?style=flat-square) ![GitHub pull requests](https://img.shields.io/github/issues-pr/YoannDev90/awesome-free-ai-api?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/YoannDev90/awesome-free-ai-api?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/YoannDev90/awesome-free-ai-api?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/YoannDev90/awesome-free-ai-api?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/YoannDev90/awesome-free-ai-api?style=for-the-badge)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/YoannDev90/awesome-free-ai-api?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/YoannDev90/awesome-free-ai-api?style=for-the-badge)
 
 ![Alt](https://repobeats.axiom.co/api/embed/1e91e9854d6f1da8fb7d9123fe83345a334c7435.svg "Repobeats analytics image")
 
@@ -53,9 +57,12 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 | [OhMyGPT](https://www.ohmygpt.com/pricing)                                 | [Details](APIS/ohmygpt.md)            |
 | [LLM-Gateway](https://llmgateway.io/models?filters=1&free=true)            | [Details](APIS/llm-gateway.md)        |
 | [LLM7](https://llm7.io)                                                    | [Details](APIS/llm7.md)               |
-| [Apertis](https://apertis.ai/models?sort=price_low)                        | [Details](APIS/apertis.md)            |
 | [ZanityAI](https://zanity.xyz/v1/models)                                   | [Details](APIS/zanityai.md)           |
 | [MapleAI](https://www.mapleai.de/models)                                   | [Details](APIS/mapleai.md)            |
+| [Apertis](https://apertis.ai/models?sort=price_low)                        | [Details](APIS/apertis.md)            |
+| [A4F](https://www.a4f.co/models)                                           | [Details](APIS/a4f.md)                |
+| [Pydantic AI Gateway](https://ai.pydantic.dev/gateway/)                    | [Details](APIS/pydantic_ai_gateway.md)|
+
 
 ## Glossary
 
@@ -84,6 +91,8 @@ Free APIs can change or disappear without notice. Always check the official docu
 - 10 January 2026 : Change the repo architecture
 - 17 January 2026 : Delete Io.net
 - 20 January 2026 : Add Apertis AI to the list
+- 21 January 2026 : Add A4F to the list
+- 21 January 2026 : Add Pydantic AI Gateway to the list
 
 ## Contributing
 
