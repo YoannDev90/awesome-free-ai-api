@@ -70,6 +70,10 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 | [TypeGPT](https://typegpt.ai/pricing)                                         | [Details](APIS/typegpt.md)             |
 | [Infip](https://infip.pro/models)                                             | [Details](APIS/infip.md)               |
 | [AquaDevs](https://aquadevs.com/plan)                                         | [Details](APIS/aquadevs.md)            |
+| [Routeway AI](https://routeway.ai/models)                                     | [Details](APIS/routeway_ai.md)         |
+| [Scitely](https://platform.scitely.com/docs/models)                           | [Details](APIS/scitely.md)             |
+| [AwanLLM](https://www.awanllm.com/models)                                     | [Details](APIS/awanllm.md)             |
+| [SubNP](https://subnp.com/free-api)                                           | [Details](APIS/subnp.md)               |
 
 ## 📖 Glossary
 
@@ -109,6 +113,10 @@ Free APIs can change or disappear without notice. Always check the official docu
 - 04 February 2026 : Add Infip AI to the list
 - 04 February 2026 : Add Aquadevs to the list
 - 04 February 2026 : Delete Maple AI to the list
+- 07 February 2026 : Add Routeway AI to the list
+- 07 February 2026 : Add Scitely to the list
+- 07 February 2026 : Add AwanLLM to the list
+- 07 February 2026 : Add SubNP to the list
 
 ## ⛳ Contributing
 
