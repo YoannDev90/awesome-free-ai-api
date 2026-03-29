@@ -18,7 +18,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 ---
 
 
-> [!NOTE] Note about Gratisfy
+> [!NOTE] 
 > Gratisfy is a platform that gives users access to the best free AI Inference providers around. 
 >
 >It offers benchmarks, Model & Provider info, and a unified API access point to use all of these APIs as easily as possible. 
@@ -75,8 +75,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 
 ---
 
-> [!TIP] Glossary
->
+> [!TIP]
 >- RPD: Requests Per Day
 >- API limits: Restrictions on the number of API calls or usage allowed
 >- Tokens per day: Maximum tokens (text units) allowed daily
@@ -84,7 +83,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 
 ---
 
-> [!CAUTION] Disclaimer
+> [!CAUTION]
 > Free APIs can change or disappear without notice. Always check the official documentation for the latest information.
 
 ## ♻️ Updates
