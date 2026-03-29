@@ -12,30 +12,22 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 
 ---
 
-**Thank you for contributing, sharing, and starring if you like this project!** ⭐
+> [!IMPORTANT]  
+> **Thank you for contributing, sharing, and starring if you like this project!** ⭐
 
 ---
 
-<!-- TOC -->
 
-- [🤖 AWESOME FREE AI INFERENCE APIS](#-awesome-free-ai-inference-apis)
-  - [🏆 Best for](#-best-for)
-  - [🔗 API PROVIDERS](#-api-providers)
-  - [📖 Glossary](#-glossary)
-  - [⚠️ Disclaimer](#️-disclaimer)
-  - [♻️ Updates](#️-updates)
-  - [⛳ Contributing](#-contributing)
-  - [🎉 Acknowledgements](#-acknowledgements)
+> [!NOTE] Note about Gratisfy
+> Gratisfy is a platform that gives users access to the best free AI Inference providers around. 
+>
+>It offers benchmarks, Model & Provider info, and a unified API access point to use all of these APIs as easily as possible. 
+>
+>Check it ouy at https://gratisfy.xyz/.
+>
+> [![Gratisfy Discord Server](https://img.shields.io/discord/1480628262311821524?color=blue&label=Discord&logo=discord&style=for-the-badge)](https://discord.gratisfy.xyz/)
 
-<!-- /TOC -->
-
-## 🏆 Best for
-
-**Model choice** : ElectronHub / OpenRouter / Navy 🌟
-
-**Pricing / Rate-limits** : Pollinations 💰
-
-**Fast inference** : Cerebras / Groq ⚡
+---
 
 ## 🔗 API PROVIDERS
 
@@ -63,6 +55,12 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 | [A4F](https://www.a4f.co/models)                                              | [Details](APIS/a4f.md)                 |
 | [Pydantic AI Gateway](https://ai.pydantic.dev/gateway/)                       | [Details](APIS/pydantic_ai_gateway.md) |
 | [Requesty AI](https://www.requesty.ai/solution/llm-routing/models?price=free) | [Details](APIS/requesty_ai.md)         |
+| [Pixazo AI](https://www.pixazo.ai/api/pricing-plan)                           | [Details](APIS/pixazo.md)              |
+| [Xeven Worker](https://ai-image-api.xeven.workers.dev/img)                    | [Details](APIS/xeven_worker.md)        |
+| [StudioLM](https://studiolm.dev/)                                             | [Details](APIS/studiolm.md)            |
+| [AI.ezif.in](https://ai.ezif.in/)                                             | [Details](APIS/ai_ezif.md)             |
+| [Hubs02225](https://hubs02225.snia.ch/)                                       | [Details](APIS/hubs02225.md)           |
+| [Seraphyn AI](https://seraphyn.ai/)                                           | [Details](APIS/seraphyn.md)            |
 | [PaxSenix API](https://api.paxsenix.org/docs)                                 | [Details](APIS/paxsenix.md)            |
 | [Mixedbread](https://www.mixedbread.com/pricing)                              | [Details](APIS/mixedbread.md)          |
 | [Friendli AI](https://friendli.ai/pricing)                                    | [Details](APIS/friendli.md)            |
@@ -75,16 +73,19 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 | [AwanLLM](https://www.awanllm.com/models)                                     | [Details](APIS/awanllm.md)             |
 | [SubNP](https://subnp.com/free-api)                                           | [Details](APIS/subnp.md)               |
 
-## 📖 Glossary
+---
 
-- RPD: Requests Per Day
-- API limits: Restrictions on the number of API calls or usage allowed
-- Tokens per day: Maximum tokens (text units) allowed daily
-- Credits daily: Daily credit allowance for API usage
+> [!TIP] Glossary
+>
+>- RPD: Requests Per Day
+>- API limits: Restrictions on the number of API calls or usage allowed
+>- Tokens per day: Maximum tokens (text units) allowed daily
+>- Credits daily: Daily credit allowance for API usage
 
-## ⚠️ Disclaimer
+---
 
-Free APIs can change or disappear without notice. Always check the official documentation for the latest information.
+> [!CAUTION] Disclaimer
+> Free APIs can change or disappear without notice. Always check the official documentation for the latest information.
 
 ## ♻️ Updates
 
@@ -117,6 +118,12 @@ Free APIs can change or disappear without notice. Always check the official docu
 - 07 February 2026 : Add Scitely to the list
 - 07 February 2026 : Add AwanLLM to the list
 - 07 February 2026 : Add SubNP to the list
+- 29 March 2026 : Add Pixazo AI to the list
+- 29 March 2026 : Add Xeven Worker to the list
+- 29 March 2026 : Add StudioLM to the list
+- 29 March 2026 : Add AI.ezif.in to the list
+- 29 March 2026 : Add Hubs02225 to the list
+- 29 March 2026 : Add Seraphyn AI to the list
 
 ## ⛳ Contributing
 
