@@ -26,15 +26,3 @@ body:
       placeholder: https://example.com
     validations:
       required: true
-
-  - type: textarea
-    id: supported_models
-    attributes:
-      label: Supported models
-      description: List the models you found on the provider.
-      placeholder: |
-        - model-a
-        - model-b
-        - model-c
-    validations:
-      required: true
