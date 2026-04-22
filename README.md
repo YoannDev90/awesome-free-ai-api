@@ -23,7 +23,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 >
 >It offers benchmarks, Model & Provider info, and a unified API access point to use all of these APIs as easily as possible. 
 >
->Check it ouy at https://gratisfy.xyz/.
+>Check it out at https://gratisfy.xyz/.
 >
 > [![Gratisfy Discord Server](https://img.shields.io/discord/1480628262311821524?color=blue&label=Discord&logo=discord&style=for-the-badge)](https://discord.gratisfy.xyz/)
 
