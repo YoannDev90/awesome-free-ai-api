@@ -1,0 +1,40 @@
+name: Add a provider
+description: Suggest a new free AI inference provider for the list.
+title: "Add provider: "
+labels:
+  - enhancement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to suggest a new provider for the list.
+        Fill only the required details: name, URL, and models.
+
+  - type: input
+    id: provider_name
+    attributes:
+      label: Provider name
+      description: The name that should appear in the table.
+    validations:
+      required: true
+
+  - type: input
+    id: provider_url
+    attributes:
+      label: Provider URL
+      description: Main website or landing page for the provider.
+      placeholder: https://example.com
+    validations:
+      required: true
+
+  - type: textarea
+    id: supported_models
+    attributes:
+      label: Supported models
+      description: List the models you found on the provider.
+      placeholder: |
+        - model-a
+        - model-b
+        - model-c
+    validations:
+      required: true
