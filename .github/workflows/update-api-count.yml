@@ -1,19 +1,19 @@
-name: Daily site check
+name: Update API count badge
 
 on:
-    schedule:
-        - cron: "0 12 * * *"
-    workflow_dispatch:
+    push:
+        branches:
+            - main
 
 permissions:
     contents: write
 
 concurrency:
-    group: daily-site-check
+    group: update-api-count
     cancel-in-progress: true
 
 jobs:
-    update-readme:
+    update-badge:
         runs-on: ubuntu-latest
 
         steps:
@@ -25,8 +25,8 @@ jobs:
               with:
                   python-version: "3.11"
 
-            - name: Refresh site checks
-              run: python scripts/check_sites.py
+            - name: Refresh API count badge
+              run: python scripts/update_api_count.py
 
             - name: Commit updated README
               run: |
@@ -38,5 +38,5 @@ jobs:
                   git config user.name "github-actions[bot]"
                   git config user.email "github-actions[bot]@users.noreply.github.com"
                   git add README.md
-                  git commit -m "chore: refresh daily site checks"
+                  git commit -m "chore: refresh API count badge"
                   git push
