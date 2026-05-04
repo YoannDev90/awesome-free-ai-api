@@ -23,7 +23,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 >
 >It offers benchmarks, Model & Provider info, and a unified API access point to use all of these APIs as easily as possible. 
 >
->Check it ouy at https://gratisfy.xyz/.
+>Check it out at https://gratisfy.xyz/.
 >
 > [![Gratisfy Discord Server](https://img.shields.io/discord/1480628262311821524?color=blue&label=Discord&logo=discord&style=for-the-badge)](https://discord.gratisfy.xyz/)
 
@@ -82,6 +82,14 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 | [IBM watsonx.ai](https://dataplatform.cloud.ibm.com/samples?context=wx&tab=foundation-model) | [Models](https://gratisfy.xyz/terminal?cap=none&providers=ibm-watsonx)         | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-04-22   | [Status](https://gratisfy.xyz/status) |
 | [AI Horde](https://aihorde.net/details/models)                                               | [Models](https://gratisfy.xyz/terminal?cap=none&providers=ai-horde)            | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-04-22   | [Status](https://gratisfy.xyz/status) |
 | [Mistral Codestral](https://docs.mistral.ai/getting-started/models)                          | [Models](https://gratisfy.xyz/terminal?cap=none&providers=mistral-codestral)   | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-04-22   | [Status](https://gratisfy.xyz/status) |
+| [SwiftRouter](https://swiftrouter.com/models?plan=starter)                                   | [Models](https://gratisfy.xyz/terminal?cap=none&providers=swiftrouter)         | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-05-04   | [Status](https://gratisfy.xyz/status) |
+| [ZenLLM](https://zenllm.org/modelsg)                                                         | [Models](https://gratisfy.xyz/terminal?cap=none&providers=zenllm)              | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-05-04   | [Status](https://gratisfy.xyz/status) |
+| [FastRouter](https://fastrouter.ai/models/)                                                  | [Models](https://gratisfy.xyz/terminal?cap=none&providers=fastrouter)          | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-05-04   | [Status](https://gratisfy.xyz/status) |
+| [Hapuppy](https://hapuppy.com/en/models)                                                     | [Models](https://gratisfy.xyz/terminal?cap=none&providers=hapuppy)             | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-05-04   | [Status](https://gratisfy.xyz/status) |
+| [Resurge](https://www.resurge.one/models)                                                    | [Models](https://gratisfy.xyz/terminal?cap=none&providers=resurge)             | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-05-04   | [Status](https://gratisfy.xyz/status) |
+| [FreeTheAI](https://freetheai.xyz/models/)                                                   | [Models](https://gratisfy.xyz/terminal?cap=none&providers=secrets)             | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-05-04   | [Status](https://gratisfy.xyz/status) |
+| [BlazeAI](https://blazeai.boxu.dev/#models)                                                  | [Models](https://gratisfy.xyz/terminal?cap=none&providers=blazeai)             | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-05-04   | [Status](https://gratisfy.xyz/status) |
+| [Nexusify](https://docs.nexusify.co/)                                                        | [Models](https://gratisfy.xyz/terminal?cap=none&providers=nexusify)            | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-05-04   | [Status](https://gratisfy.xyz/status) |
 
 ---
 
@@ -100,51 +108,24 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 
 - 05 October 2025 : Remove models list
 - 07 October 2025 : Add Ollama Cloud to the list
-- 16 October 2025 : Add IO-Intelligence to the list
+- 16 October 2025 : Add Io.net to the list
 - 26 October 2025 : Add NagaAI to the list
 - 27 October 2025 : Add OhMyGPT to the list
-- 09 November 2025 : Add LLM-Gateway to the list
-- 10 November 2025 : Add LLM7 + Anannas AI to the list
+- 09 November 2025 : Add LLM-Gateway, LLM7 and Anannas AI to the list
 - 04 December 2025 : Update Pollinations link
 - 07 December 2025 : Delete AI/ML API and Anannas AI
 - 10 January 2026 : Add ZanityAI to the list
 - 10 January 2026 : Delete Bytez
-- 10 January 2026 : Change the repo architecture
 - 17 January 2026 : Delete Io.net
 - 20 January 2026 : Add Apertis AI to the list
-- 21 January 2026 : Add A4F to the list
-- 21 January 2026 : Add Requesty AI to the list
-- 21 January 2026 : Add PaxSenix API to the list
-- 21 January 2026 : Add Pydantic AI Gateway to the list
-- 04 February 2026 : Add Mixebread to the list
-- 04 February 2026 : Add Friendli AI to the list
-- 04 February 2026 : Add AiHubMix to the list
-- 04 February 2026 : Add TypeGPT to the list
-- 04 February 2026 : Add Infip AI to the list
-- 04 February 2026 : Add Aquadevs to the list
+- 21 January 2026 : Add A4F, Requesty AI, PaxSenix API and Pydantic AI Gateway to the list
+- 04 February 2026 : Add Mixebread, Friendli AI, AiHubMix, TypeGPT, Infip AI and Aquadevs to the list
 - 04 February 2026 : Delete Maple AI to the list
-- 07 February 2026 : Add Routeway AI to the list
-- 07 February 2026 : Add Scitely to the list
-- 07 February 2026 : Add AwanLLM to the list
-- 07 February 2026 : Add SubNP to the list
-- 29 March 2026 : Add Pixazo AI to the list
-- 29 March 2026 : Add Xeven Worker to the list
-- 29 March 2026 : Add StudioLM to the list
-- 29 March 2026 : Add AI.ezif.in to the list
-- 29 March 2026 : Add Hubs02225 to the list
-- 29 March 2026 : Add Seraphyn AI to the list
-- 22 April 2026 : Add ValorGPT to the list
-- 22 April 2026 : Add Vercel AI Gateway to the list
-- 22 April 2026 : Add LiteRouter to the list
-- 22 April 2026 : Add NVIDIA NIM to the list
-- 22 April 2026 : Add OpenCode Zen to the list
-- 22 April 2026 : Add GitHub Models to the list
-- 22 April 2026 : Add Z.AI to the list
-- 22 April 2026 : Add MegaNova to the list
-- 22 April 2026 : Add IBM watsonx.ai to the list
-- 22 April 2026 : Add AI Horde to the list
-- 22 April 2026 : Add Mistral Codestral to the list
+- 07 February 2026 : Add Routeway AI, Scitely, AwanLLM and SubNP to the list
+- 29 March 2026 : Add Pixazo AI, Xeven Worker, StudioLM, Kivest, Hubs02225 and Seraphyn AI to the list
+- 22 April 2026 : Add ValorGPT, Vercel AI Gateway, LiteRouter, NVIDIA NIM, OpenCode Zen, GitHub Models, Z.AI, MegaNova, WatsonX, AI Horde and Mistral Codestral to the list
 - 22 April 2026 : Delete Kivest AI
+- 04 May 2026 : Add SwiftRouter, ZenLLM, Fastrouter, Resurge, Hapuppy, Secrets, BlazeAI and Nexusify to the list
 
 ## ⛳ Contributing
 
