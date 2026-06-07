@@ -82,6 +82,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 | [FreeTheAI](https://freetheai.xyz/models/)                                                   | [Models](https://gratisfy.xyz/terminal?cap=none&providers=secrets)             | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-05-04   | [Status](https://gratisfy.xyz/status) |
 | [BlazeAI](https://blazeai.boxu.dev/#models)                                                  | [Models](https://gratisfy.xyz/terminal?cap=none&providers=blazeai)             | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-05-04   | [Status](https://gratisfy.xyz/status) |
 | [Nexusify](https://docs.nexusify.co/)                                                        | [Models](https://gratisfy.xyz/terminal?cap=none&providers=nexusify)            | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-05-04   | [Status](https://gratisfy.xyz/status) |
+| [CoderPlan](https://coderplan.ai)                                                              | [Models](https://coderplan.ai/models)                                           | [Requirements](https://coderplan.ai)           | ✅      | 2026-06-04   | [Status](https://coderplan.ai) |
 
 ---
 
@@ -120,6 +121,8 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 - 04 May 2026 : Add SwiftRouter, ZenLLM, Fastrouter, Resurge, Hapuppy, Secrets, BlazeAI and Nexusify to the list
 - 04 May 2026 : Remove TypeGPT and Scitely
 - 07 June 2026 : Remove Zanity, WatsonX, Vercel, Seraphyn and Happupy
+- 07 June 2026 : Add Coderplan by @onepaperbox
+
 
 ## ⛳ Contributing
 
