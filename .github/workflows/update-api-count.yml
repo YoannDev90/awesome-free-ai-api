@@ -1,0 +1,42 @@
+name: Update API count badge
+
+on:
+    push:
+        branches:
+            - main
+
+permissions:
+    contents: write
+
+concurrency:
+    group: update-api-count
+    cancel-in-progress: true
+
+jobs:
+    update-badge:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4
+
+            - name: Set up Python
+              uses: actions/setup-python@v5
+              with:
+                  python-version: "3.11"
+
+            - name: Refresh API count badge
+              run: python scripts/update_api_count.py
+
+            - name: Commit updated README
+              run: |
+                  if git diff --quiet -- README.md; then
+                    echo "No README changes to commit."
+                    exit 0
+                  fi
+
+                  git config user.name "github-actions[bot]"
+                  git config user.email "github-actions[bot]@users.noreply.github.com"
+                  git add README.md
+                  git commit -m "chore: refresh API count badge"
+                  git push
