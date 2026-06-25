@@ -40,7 +40,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 | [Mistral](https://docs.mistral.ai/getting-started/models/models_overview/)                   | [Models](https://gratisfy.xyz/terminal?cap=none&providers=mistral)             | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-06-25   | [Status](https://gratisfy.xyz/status) |
 | [Cohere](https://docs.cohere.com/v1/docs/models#command)                                     | [Models](https://gratisfy.xyz/terminal?cap=none&providers=cohere)              | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-06-25   | [Status](https://gratisfy.xyz/status) |
 | [OpenRouter](https://openrouter.ai/models?max_price=0)                                       | [Models](https://gratisfy.xyz/terminal?cap=none&providers=openrouter)          | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-06-25   | [Status](https://gratisfy.xyz/status) |
-| [Navy AI](https://api.navy)                                                                  | [Models](https://gratisfy.xyz/terminal?cap=none&providers=navy)                | [Requirements](https://gratisfy.xyz/providers) | ❌      | 2026-06-25   | [Status](https://gratisfy.xyz/status) |
+| [Navy AI](https://api.navy)                                                                  | [Models](https://gratisfy.xyz/terminal?cap=none&providers=navy)                | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-06-25   | [Status](https://gratisfy.xyz/status) |
 | [Cloudflare Workers](https://developers.cloudflare.com/workers-ai/models/)                   | [Models](https://gratisfy.xyz/terminal?cap=none&providers=cloudflare)          | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-06-25   | [Status](https://gratisfy.xyz/status) |
 | [Void AI](https://voidai.app/)                                                               | [Models](https://gratisfy.xyz/terminal?cap=none&providers=voidai)              | [Requirements](https://gratisfy.xyz/providers) | ❌      | 2026-06-25   | [Status](https://gratisfy.xyz/status) |
 | [MNN AI](https://mnnai.ru/)                                                                  | [Models](https://gratisfy.xyz/terminal?cap=none&providers=mnn)                 | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-06-25   | [Status](https://gratisfy.xyz/status) |
@@ -125,6 +125,8 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 - 07 June 2026 : Add Coderplan by @onepaperbox
 - 25 June 2026 : Add Inception platform
 - 25 June 2026 : Delete Infip
+- 25 June 2026 : Add Tested check to NavyAPI (tested via playground)
+
 
 ## ⛳ Contributing
 
