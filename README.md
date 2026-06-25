@@ -83,6 +83,8 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 | [BlazeAI](https://blazeai.boxu.dev/#models)                                                  | [Models](https://gratisfy.xyz/terminal?cap=none&providers=blazeai)             | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-06-24   | [Status](https://gratisfy.xyz/status) |
 | [Nexusify](https://docs.nexusify.co/)                                                        | [Models](https://gratisfy.xyz/terminal?cap=none&providers=nexusify)            | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-06-24   | [Status](https://gratisfy.xyz/status) |
 | [CoderPlan](https://coderplan.ai)                                                              | [Models](https://coderplan.ai/models)                                           | [Requirements](https://coderplan.ai)           | ✅      | 2026-06-24   | [Status](https://coderplan.ai) |
+| [Inception Platform](https://platform.inceptionlabs.ai/)                                                              | [Models](https://docs.inceptionlabs.ai/get-started/models#models-endpoints-and-pricing)                                           | [Requirements](https://docs.inceptionlabs.ai/get-started/get-started)           | ❌      | 2026-06-25   | [Status](https://platform.inceptionlabs.ai/) |
+
 
 ---
 
@@ -122,7 +124,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 - 04 May 2026 : Remove TypeGPT and Scitely
 - 07 June 2026 : Remove Zanity, WatsonX, Vercel, Seraphyn and Happupy
 - 07 June 2026 : Add Coderplan by @onepaperbox
-
+- 25 June 2026 : Add Inception platform
 
 ## ⛳ Contributing
 
