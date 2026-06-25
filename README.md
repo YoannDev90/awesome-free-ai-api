@@ -61,7 +61,6 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 | [Mixedbread](https://www.mixedbread.com/pricing)                                             | [Models](https://gratisfy.xyz/terminal?cap=none&providers=mixedbread)          | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-06-24   | [Status](https://gratisfy.xyz/status) |
 | [Friendli AI](https://friendli.ai/pricing)                                                   | [Models](https://gratisfy.xyz/terminal?cap=none&providers=friendli)            | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-06-24   | [Status](https://gratisfy.xyz/status) |
 | [AIHubMix](https://aihubmix.com/models)                                                      | [Models](https://gratisfy.xyz/terminal?cap=none&providers=aihubmix)            | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-06-24   | [Status](https://gratisfy.xyz/status) |
-| [Infip](https://infip.pro/models)                                                            | [Models](https://gratisfy.xyz/terminal?cap=none&providers=infip)               | [Requirements](https://gratisfy.xyz/providers) | ❌      | 2026-06-24   | [Status](https://gratisfy.xyz/status) |
 | [AquaDevs](https://aquadevs.com/plan)                                                        | [Models](https://gratisfy.xyz/terminal?cap=none&providers=aquadevs)            | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-06-24   | [Status](https://gratisfy.xyz/status) |
 | [Routeway AI](https://routeway.ai/models)                                                    | [Models](https://gratisfy.xyz/terminal?cap=none&providers=routeway)            | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-06-24   | [Status](https://gratisfy.xyz/status) |
 | [AwanLLM](https://www.awanllm.com/models)                                                    | [Models](https://gratisfy.xyz/terminal?cap=none&providers=awanllm)             | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-06-24   | [Status](https://gratisfy.xyz/status) |
@@ -125,6 +124,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 - 07 June 2026 : Remove Zanity, WatsonX, Vercel, Seraphyn and Happupy
 - 07 June 2026 : Add Coderplan by @onepaperbox
 - 25 June 2026 : Add Inception platform
+- 25 June 2026 : Delete Infip
 
 ## ⛳ Contributing
 
