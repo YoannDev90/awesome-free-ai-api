@@ -83,6 +83,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 | [Nexusify](https://docs.nexusify.co/)                                                        | [Models](https://gratisfy.xyz/terminal?cap=none&providers=nexusify)            | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-01   | [Status](https://gratisfy.xyz/status) |
 | [CoderPlan](https://coderplan.ai)                                                              | [Models](https://coderplan.ai/models)                                           | [Requirements](https://coderplan.ai)           | ✅      | 2026-07-01   | [Status](https://coderplan.ai) |
 | [Inception Platform](https://platform.inceptionlabs.ai/)                                                              | [Models](https://docs.inceptionlabs.ai/get-started/models#models-endpoints-and-pricing)                                           | [Requirements](https://docs.inceptionlabs.ai/get-started/get-started)           | ❌      | 2026-07-01   | [Status](https://platform.inceptionlabs.ai/) |
+| [MincAPI](https://mincapi.space-z.ai/)                                                              | [Models](https://mincapi.space-z.ai/api/v1/models)                                           | [Requirements](https://mincapi.space-z.ai/#quickstart)           | ✅      | 2026-07-01   | No Status page |
 
 
 ---
@@ -126,7 +127,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 - 25 June 2026 : Add Inception platform
 - 25 June 2026 : Delete Infip
 - 25 June 2026 : Add Tested check to NavyAPI (tested via playground)
-
+- 01 July 2026 : Add MincAPI
 
 ## ⛳ Contributing
 
