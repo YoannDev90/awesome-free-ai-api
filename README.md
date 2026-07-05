@@ -143,4 +143,5 @@ Please ensure updates are accurate and follow the format.
 - @wi1d3n_yu4n (Discord)
 - @redac1ed. (Discord)
 - @kines966176 (Discord)
+- @morrisdweck (Discord)
 - [gratisfy.xyz](https://gratisfy.xyz/providers)
