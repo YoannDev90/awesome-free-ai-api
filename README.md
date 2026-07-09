@@ -84,8 +84,9 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 | [CoderPlan](https://coderplan.ai)                                                              | [Models](https://coderplan.ai/models)                                           | [Requirements](https://coderplan.ai)           | ✅      | 2026-07-09   | [Status](https://coderplan.ai) |
 | [Inception Platform](https://platform.inceptionlabs.ai/)                                                              | [Models](https://docs.inceptionlabs.ai/get-started/models#models-endpoints-and-pricing)                                           | [Requirements](https://docs.inceptionlabs.ai/get-started/get-started)           | ❌      | 2026-07-09   | [Status](https://platform.inceptionlabs.ai/) |
 | [MincAPI](https://mincapi.space-z.ai/)                                                              | [Models](https://mincapi.space-z.ai/api/v1/models)                                           | [Requirements](https://mincapi.space-z.ai/#quickstart)           | ✅      | 2026-07-01   | No Status page |
+| [SixFingerAPI](https://api.sixfinger.live)                                                              | [Models](https://api.sixfinger.live/docs#models)                                           | [Requirements](https://api.sixfinger.live/#plans)           | ❌      | not tested   | Not Verified (I don't know) |
 
-
+https://api.sixfinger.live/
 ---
 
 > [!TIP]
@@ -128,6 +129,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 - 25 June 2026 : Delete Infip
 - 25 June 2026 : Add Tested check to NavyAPI (tested via playground)
 - 01 July 2026 : Add MincAPI
+- 09 July 2026 : Add SixFingerAPI
 
 ## ⛳ Contributing
 
