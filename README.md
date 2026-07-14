@@ -105,34 +105,73 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 
 ## ♻️ Updates
 
-- 05 October 2025 : Remove models list
-- 07 October 2025 : Add Ollama Cloud to the list
-- 16 October 2025 : Add Io.net to the list
-- 26 October 2025 : Add NagaAI to the list
-- 27 October 2025 : Add OhMyGPT to the list
-- 09 November 2025 : Add LLM-Gateway, LLM7 and Anannas AI to the list
-- 04 December 2025 : Update Pollinations link
-- 07 December 2025 : Delete AI/ML API and Anannas AI
-- 10 January 2026 : Add ZanityAI to the list
-- 10 January 2026 : Delete Bytez
-- 17 January 2026 : Delete Io.net
-- 20 January 2026 : Add Apertis AI to the list
-- 21 January 2026 : Add A4F, Requesty AI, PaxSenix API and Pydantic AI Gateway to the list
-- 04 February 2026 : Add Mixebread, Friendli AI, AiHubMix, TypeGPT, Infip AI and Aquadevs to the list
-- 04 February 2026 : Delete Maple AI to the list
-- 07 February 2026 : Add Routeway AI, Scitely, AwanLLM and SubNP to the list
-- 29 March 2026 : Add Pixazo AI, Xeven Worker, StudioLM, Kivest, Hubs02225 and Seraphyn AI to the list
-- 22 April 2026 : Add ValorGPT, Vercel AI Gateway, LiteRouter, NVIDIA NIM, OpenCode Zen, GitHub Models, Z.AI, MegaNova, WatsonX, AI Horde and Mistral Codestral to the list
-- 22 April 2026 : Delete Kivest AI
-- 04 May 2026 : Add SwiftRouter, ZenLLM, Fastrouter, Resurge, Hapuppy, Secrets, BlazeAI and Nexusify to the list
-- 04 May 2026 : Remove TypeGPT and Scitely
-- 07 June 2026 : Remove Zanity, WatsonX, Vercel, Seraphyn and Happupy
-- 07 June 2026 : Add Coderplan by @onepaperbox
-- 25 June 2026 : Add Inception platform
-- 25 June 2026 : Delete Infip
-- 01 July 2026 : Add MincAPI
-- 09 July 2026 : Add SixFingerAPI
-- 14 July 2026 : Add Subaxis, UnoRouter, Logfare, AIchixia, AI Pooled. Remove Friendli AI
+<details>
+<summary>2025</summary>
+
+- **October 2025**
+  - Remove models list
+  - Add Ollama Cloud, Io.net, NagaAI, OhMyGPT
+- **November 2025**
+  - Add LLM-Gateway, LLM7, Anannas AI
+- **December 2025**
+  - Update Pollinations link
+  - Delete AI/ML API, Anannas AI
+
+</details>
+
+<details open>
+<summary>2026</summary>
+
+- **January 2026**
+```diff
++ Add ZanityAI
++ Add Apertis AI
++ Add A4F, Requesty AI, PaxSenix API, Pydantic AI Gateway
+- Delete Bytez
+- Delete Io.net
+```
+
+- **February 2026**
+```diff
++ Add Mixebread, Friendli AI, AiHubMix, TypeGPT, Infip AI, Aquadevs
++ Add Routeway AI, Scitely, AwanLLM, SubNP
+- Delete Maple AI
+```
+
+- **March 2026**
+```diff
++ Add Pixazo AI, Xeven Worker, StudioLM, Kivest, Hubs02225, Seraphyn AI
+```
+
+- **April 2026**
+```diff
++ Add ValorGPT, Vercel AI Gateway, LiteRouter, NVIDIA NIM, OpenCode Zen, GitHub Models, Z.AI, MegaNova, WatsonX, AI Horde, Mistral Codestral
+- Delete Kivest AI
+```
+
+- **May 2026**
+```diff
++ Add SwiftRouter, ZenLLM, Fastrouter, Resurge, Hapuppy, Secrets, BlazeAI, Nexusify
+- Remove TypeGPT, Scitely
+```
+
+- **June 2026**
+```diff
++ Add Coderplan by @onepaperbox
++ Add Inception platform
+- Remove Zanity, WatsonX, Vercel, Seraphyn, Happupy
+- Delete Infip
+```
+
+- **July 2026**
+```diff
++ Add MincAPI
++ Add SixFingerAPI
++ Add Subaxis, UnoRouter, Logfare, AIchixia, AI Pooled
+- Remove Friendli AI
+```
+
+</details>
 
 ## ⛳ Contributing
 
