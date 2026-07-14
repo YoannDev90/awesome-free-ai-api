@@ -883,25 +883,223 @@ Free AI inference providers with details.
 
 </details>
 <details id="pollinations">
-<summary><strong>Pollinations ★★★☆☆</strong></summary>
+<summary><strong>Pollinations ★★★★☆</strong></summary>
 
-**Global rating:** 3/5
+**Global rating:** 4/5
 
 | Stability | Model choice | Limits |
 |-----------|-------------|--------|
-| 3/5 | 3/5 | 3/5 |
+| 4/5 | 5/5 | 4/5 |
 
 **URL:** [https://enter.pollinations.ai/](https://enter.pollinations.ai/)
-**Tested:** Yes (2026-07-14)
-**Limits:** See provider documentation
-**Capabilities:** text
-**Pricing:** unknown
+**Tested:** Yes by YoannDev90 (2026-07-14)
+**Limits:** Only some community models are free
+**Capabilities:** text, reasoning, code
+**Pricing:** free all
 **Community:** None
+
+> Only some community models are free, others require a paid subscription or quests pollens
 
 ### Models
 | Model ID | Context |
 | --- | --- |
-| *Not publicly listed* | *Not publicly listed* |
+| openai | 400000 |
+| openai-fast | 400000 |
+| gpt-5.4 | 1050000 |
+| gpt-5.4-mini | 400000 |
+| openai-large | 1050000 |
+| gpt-5.6-sol | 1050000 |
+| gpt-5.6-terra | 1050000 |
+| gpt-5.6-luna | 1050000 |
+| mercury | 128000 |
+| qwen-coder | 262144 |
+| mistral-small-3.2 | 128000 |
+| mistral | 262144 |
+| openai-audio | 128000 |
+| openai-audio-large | 128000 |
+| gemini-3-flash | 1048576 |
+| gemini | 1048576 |
+| gemini-flash-lite-3.1 | 1048576 |
+| gemini-fast | 1048576 |
+| deepseek | 1048576 |
+| gemma | 262144 |
+| deepseek-pro | 1048576 |
+| grok | 262144 |
+| grok-4-20-reasoning | 262144 |
+| grok-large | 1048576 |
+| gemini-search | 1048576 |
+| gemini-search-fast | 1048576 |
+| gemini-search-large | 1048576 |
+| midijourney | ? |
+| midijourney-large | ? |
+| claude-fast | 200000 |
+| claude | 1000000 |
+| claude-sonnet-5 | 1000000 |
+| claude-opus-4.6 | 1000000 |
+| claude-opus-4.7 | 1000000 |
+| claude-large | 1000000 |
+| claude-fable-5 | 1000000 |
+| perplexity-fast | 128000 |
+| perplexity-deep | 128000 |
+| perplexity | 200000 |
+| perplexity-reasoning | 128000 |
+| kimi | 262000 |
+| kimi-code | 262144 |
+| gemini-large | 1048576 |
+| nova-fast | 128000 |
+| nova | 1048576 |
+| glm | 1048576 |
+| llama | 131072 |
+| llama-maverick | 1048576 |
+| llama-scout | 327680 |
+| minimax-m2.7 | 200000 |
+| minimax | 524288 |
+| muse-spark-1.1 | 1048576 |
+| mistral-large | 256000 |
+| polly | ? |
+| qwen-coder-large | 262144 |
+| qwen-large | 262000 |
+| qwen-vision | 131072 |
+| qwen-vision-pro | 262144 |
+| step-flash | 256000 |
+| step-3.5-flash | 262144 |
+| qwen-safety | ? |
+| voodoohop/anyvm-deepseek-chat | ? |
+| voodoohop/airforce-qwen3-max | ? |
+| voodoohop/airforce-doubao-pro | ? |
+| voodoohop/airforce-grok-4-fast | ? |
+| CloudCompile/gemma-4-e2b | ? |
+| sharktide/inferenceport.ai-gpt-oss-20b | ? |
+| sharktide/inferenceport.ai-gpt-5-chat-latest | ? |
+| tomdacatto/ezra | ? |
+| MarcosFRG/gemma-4-31b | ? |
+| MarcosFRG/deepseek-v4-flash | ? |
+| MarcosFRG/gemini-2.5-flash-lite | ? |
+| MarcosFRG/deepseek-v4-pro | ? |
+| sharktide/inferenceport-ai-command-r-plus | ? |
+| sharktide/inferenceport-ai-mimo-v2.5 | ? |
+| MarcosFRG/gemini-3-flash-preview | ? |
+| Spit-fires/diffusiongemma-26b-a4b-it | ? |
+| morriszdweck/qwen-3.7-plus-cheap | ? |
+| sharktide/inferenceport-ai-gpt-4.1 | ? |
+| Minor-fun/deepseek-v3.2 | ? |
+| Minor-fun/deepseek-v4-flash | ? |
+| Spit-fires/step-3.5-flash-free | ? |
+| Spit-fires/gpt-oss-20b-free | ? |
+| MarcosFRG/glm-4.6v-flash | ? |
+| smplstuff/falcon-h1-tiny | ? |
+| Bakhshi7889/gemma-4-31b-it | ? |
+| vendouple/kimi-k2.6 | ? |
+| Spit-fires/bonsai-image-512x512-4 | ? |
+| morriszdweck/kimi-k2.6-cheap | ? |
+| Catniti/gpt-4.0 | ? |
+| vendouple/deepseek-v3.2 | ? |
+| Catniti/nemotron-3-ultra-550b-a55b | ? |
+| Catniti/Laguna-xs-2.1 | ? |
+| MarcosFRG/minimax-m2.7 | ? |
+| MarcosFRG/minimax-m3 | ? |
+| mikl-shortcuts/ministral-3 | ? |
+| MarcosFRG/mimo-v2.5 | ? |
+| MarcosFRG/deepseek-v3.2 | ? |
+| MarcosFRG/gemma-3-27b | ? |
+| vendouple/gpt-5.6-sol | ? |
+| MarcosFRG/gemini-3.1-pro-preview | ? |
+| MarcosFRG/step-3.5-flash | ? |
+| MarcosFRG/gemini-3.1-flash-lite | ? |
+| Circuit-Overtime/lixsearch | ? |
+| Catniti/openai-o4-mini | ? |
+| Catniti/glm-4.7-flash | ? |
+| vendouple/deepseek-v4-flash | ? |
+| solarnode-developement/hy3 | ? |
+| Catniti/glm-4.7 | ? |
+| Catniti/agnes-2.0-flash | ? |
+| vendouple/nemotron-3-ultra | ? |
+| vendouple/ministral-14b-latest | ? |
+| solarnode-developement/free | ? |
+| vendouple/unlocked-deepseek | ? |
+| vendouple/deepseek-v4-pro | ? |
+| Catniti/claude-sonnet-4.6 | ? |
+| Catniti/gemma-4-31b | ? |
+| Catniti/gpt-oss-120b | ? |
+| YoannDev90/diffusiongemma-26b-a4b-it | ? |
+| solarnode-developement/glm-5.2-cheap | ? |
+| MarcosFRG/glm-5.2 | ? |
+| YoannDev90/hy3-preview | ? |
+| YoannDev90/qwen3.7-plus | ? |
+| YoannDev90/grok-4.1-fast | ? |
+| YoannDev90/llama-4-scout | ? |
+| YoannDev90/gemini-3-pro | ? |
+| YoannDev90/gpt-oss-120b | ? |
+| YoannDev90/llama-3.3-70b-instruct | ? |
+| YoannDev90/gpt-4o-mini-search-preview | ? |
+| YoannDev90/minimax-m3 | ? |
+| YoannDev90/deepseek-v4-pro | ? |
+| YoannDev90/step-3.7-flash | ? |
+| YoannDev90/gpt-5.4-mini | ? |
+| Catniti/gpt-5.6-luna | ? |
+| Catniti/gpt-5.5 | ? |
+| kontext | ? |
+| nanobanana | ? |
+| nanobanana-2 | ? |
+| nanobanana-2-lite | ? |
+| nanobanana-pro | ? |
+| seedream5 | ? |
+| seedream5-pro | ? |
+| seedream | ? |
+| seedream-pro | ? |
+| ideogram-v4-turbo | ? |
+| ideogram-v4-balanced | ? |
+| ideogram-v4-quality | ? |
+| gptimage | ? |
+| gptimage-large | ? |
+| gpt-image-2 | ? |
+| flux | ? |
+| zimage | ? |
+| veo | ? |
+| seedance-pro | ? |
+| seedance-2.0 | ? |
+| wan | ? |
+| wan-fast | ? |
+| wan-pro | ? |
+| wan-pro-1080p | ? |
+| wan-image | ? |
+| wan-image-pro | ? |
+| qwen-image | ? |
+| grok-imagine | ? |
+| grok-imagine-pro | ? |
+| grok-video-pro | ? |
+| klein | ? |
+| ltx-2 | ? |
+| p-image | ? |
+| p-image-edit | ? |
+| p-video-720p | ? |
+| p-video-1080p | ? |
+| nova-canvas | ? |
+| nova-reel | ? |
+| trellis-2-low | ? |
+| trellis-2-medium | ? |
+| trellis-2-high | ? |
+| hyper3d-rodin | ? |
+| gpt-realtime-2 | 128000 |
+| elevenlabs | ? |
+| elevenflash | ? |
+| eleven-multilingual-v2 | ? |
+| elevenmusic | ? |
+| eleven-sfx | ? |
+| whisper | ? |
+| scribe | ? |
+| universal-2 | ? |
+| universal-3-pro | ? |
+| acestep | ? |
+| stable-audio-3-medium | ? |
+| stable-audio-3-large | ? |
+| qwen-tts | ? |
+| qwen-tts-instruct | ? |
+| gemini-2 | 8192 |
+| openai-3-small | 8192 |
+| openai-3-large | 8192 |
+| cohere-embed-v4 | 128000 |
+| qwen3-embedding-8b | 32768 |
 
 </details>
 <details id="pydantic-ai-gateway">

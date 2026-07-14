@@ -34,6 +34,12 @@ def parse_openai(d):
     return [{"id":i.get("id","?"),"context":str(i.get("context_length","?"))} for i in d.get("data",[]) if isinstance(i,dict)]
 PARSERS["openai"]=parse_openai
 
+def parse_pollinations(d):
+    if not isinstance(d, list):
+        return []
+    return [{"id": item.get("name", "unknown"), "context": "?"} for item in d if isinstance(item, dict)]
+PARSERS["pollinations"]=parse_pollinations
+
 def fetch_models(p):
     c=p.get("models")
     if not c: return []
@@ -45,23 +51,16 @@ def fetch_models(p):
     for a,b in (c.get("headers") or {}).items():
         h[a]=b.replace("{key}",k) if k else b
     if k and not h: h={"Authorization":f"Bearer {k}"}
+    if not h: h={"User-Agent":"Mozilla/5.0"}
     out=[]
-    pg=1
-    while True:
-        sep="&" if "?" in ep else "?"
-        url=f"{ep}{sep}page={pg}&limit=100"
-        try:
-            req=Request(url,headers=h)
-            with urlopen(req,timeout=TIMEOUT) as r:
-                data=json.loads(r.read().decode())
-        except: break
+    try:
+        req=Request(ep,headers=h)
+        with urlopen(req,timeout=TIMEOUT) as r:
+            data=json.loads(r.read().decode())
         parser=PARSERS.get(fmt)
-        if not parser: break
-        m=parser(data)
-        if not m: break
-        out.extend(m)
-        if len(m)<100: break
-        pg+=1
+        if not parser: return []
+        out=parser(data)
+    except: pass
     return out
 
 def stars(n):

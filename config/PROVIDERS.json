@@ -969,21 +969,30 @@
       "telegram_url": null,
       "needs_api_key": false,
       "api_key_env": null,
-      "models": null,
-      "ratings": {
-        "stability": 3,
-        "model_choice": 3,
-        "limits": 3
+      "models": {
+        "endpoint": "https://gen.pollinations.ai/v1/models",
+        "format": "openai",
+        "response_path": "$.data[*]",
+        "model_id_path": "$.id",
+        "model_context_path": "$.context_length",
+        "headers": {}
       },
-      "limits": "See provider documentation",
+      "ratings": {
+        "stability": 4,
+        "model_choice": 5,
+        "limits": 4
+      },
+      "limits": "Only some community models are free",
       "capabilities": [
-        "text"
+        "text",
+        "reasoning",
+        "code"
       ],
-      "pricing_model": "unknown",
+      "pricing_model": "free_all",
       "tested": true,
-      "tested_by": null,
+      "tested_by": "YoannDev90",
       "last_checked": "2026-07-14",
-      "note": null
+      "note": "Only some community models are free, others require a paid subscription or quests pollens"
     },
     {
       "name": "Pydantic AI Gateway",
