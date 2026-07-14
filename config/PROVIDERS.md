@@ -12,10 +12,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://www.a4f.co/models](https://www.a4f.co/models)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -34,10 +39,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://aihorde.net/details/models](https://aihorde.net/details/models)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -56,10 +66,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://ai.pooled.dev](https://ai.pooled.dev)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -78,10 +93,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://aihubmix.com/models](https://aihubmix.com/models)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -100,10 +120,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://www.aichixia.xyz/](https://www.aichixia.xyz/)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -122,10 +147,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://apertis.ai/models?sort=price_low](https://apertis.ai/models?sort=price_low)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -144,10 +174,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://aquadevs.com/plan](https://aquadevs.com/plan)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -166,10 +201,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://www.awanllm.com/models](https://www.awanllm.com/models)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -188,10 +228,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://blazeai.boxu.dev/#models](https://blazeai.boxu.dev/#models)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -210,10 +255,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://inference-docs.cerebras.ai/models/overview](https://inference-docs.cerebras.ai/models/overview)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -232,10 +282,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://developers.cloudflare.com/workers-ai/models/](https://developers.cloudflare.com/workers-ai/models/)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -254,10 +309,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://coderplan.ai](https://coderplan.ai)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -276,10 +336,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://docs.cohere.com/v1/docs/models#command](https://docs.cohere.com/v1/docs/models#command)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -298,10 +363,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://fastrouter.ai/models/](https://fastrouter.ai/models/)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -320,10 +390,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://freetheai.xyz/models/](https://freetheai.xyz/models/)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -342,10 +417,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://github.com/marketplace?type=models](https://github.com/marketplace?type=models)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -364,10 +444,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://ai.google.dev/gemini-api/docs/models](https://ai.google.dev/gemini-api/docs/models)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -386,10 +471,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://console.groq.com/docs/models](https://console.groq.com/docs/models)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -408,10 +498,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://hubs02225.snia.ch/](https://hubs02225.snia.ch/)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -430,10 +525,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://platform.inceptionlabs.ai/](https://platform.inceptionlabs.ai/)
+
 **Tested:** No (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -452,10 +552,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://llmgateway.io/models?filters=1&free=true](https://llmgateway.io/models?filters=1&free=true)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -474,10 +579,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://llm7.io](https://llm7.io)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -496,10 +606,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://literouter.com/model_list](https://literouter.com/model_list)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -518,10 +633,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://logfare.ai/](https://logfare.ai/)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -540,10 +660,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://mnnai.ru/](https://mnnai.ru/)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -562,10 +687,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://console.meganova.ai/serverless](https://console.meganova.ai/serverless)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -584,10 +714,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://mincapi.space-z.ai/](https://mincapi.space-z.ai/)
+
 **Tested:** Yes (2026-07-01)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -606,10 +741,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://docs.mistral.ai/getting-started/models/models_overview/](https://docs.mistral.ai/getting-started/models/models_overview/)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -628,10 +768,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://docs.mistral.ai/getting-started/models](https://docs.mistral.ai/getting-started/models)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -650,10 +795,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://www.mixedbread.com/pricing](https://www.mixedbread.com/pricing)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -672,10 +822,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://build.nvidia.com/models](https://build.nvidia.com/models)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -694,10 +849,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://naga.ac/models](https://naga.ac/models)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -716,10 +876,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://api.navy](https://api.navy)
+
 **Tested:** No (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -738,10 +903,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://docs.nexusify.co/](https://docs.nexusify.co/)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -760,10 +930,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://www.ohmygpt.com/pricing](https://www.ohmygpt.com/pricing)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -782,10 +957,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://ollama.com/api/tags](https://ollama.com/api/tags)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -804,10 +984,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://opencode.ai/zen/v1/models](https://opencode.ai/zen/v1/models)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -826,10 +1011,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://openrouter.ai/models?max_price=0](https://openrouter.ai/models?max_price=0)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -848,10 +1038,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://api.paxsenix.org/docs](https://api.paxsenix.org/docs)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -870,10 +1065,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://www.pixazo.ai/api/pricing-plan](https://www.pixazo.ai/api/pricing-plan)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -892,10 +1092,15 @@ Free AI inference providers with details.
 | 4/5 | 5/5 | 4/5 |
 
 **URL:** [https://enter.pollinations.ai/](https://enter.pollinations.ai/)
+
 **Tested:** Yes by YoannDev90 (2026-07-14)
+
 **Limits:** Only some community models are free
+
 **Capabilities:** text, reasoning, code
+
 **Pricing:** free all
+
 **Community:** None
 
 > Only some community models are free, others require a paid subscription or quests pollens
@@ -903,66 +1108,66 @@ Free AI inference providers with details.
 ### Models
 | Model ID | Context |
 | --- | --- |
-| openai | 400000 |
-| openai-fast | 400000 |
-| gpt-5.4 | 1050000 |
-| gpt-5.4-mini | 400000 |
-| openai-large | 1050000 |
-| gpt-5.6-sol | 1050000 |
-| gpt-5.6-terra | 1050000 |
-| gpt-5.6-luna | 1050000 |
-| mercury | 128000 |
-| qwen-coder | 262144 |
-| mistral-small-3.2 | 128000 |
-| mistral | 262144 |
-| openai-audio | 128000 |
-| openai-audio-large | 128000 |
-| gemini-3-flash | 1048576 |
-| gemini | 1048576 |
-| gemini-flash-lite-3.1 | 1048576 |
-| gemini-fast | 1048576 |
-| deepseek | 1048576 |
-| gemma | 262144 |
-| deepseek-pro | 1048576 |
-| grok | 262144 |
-| grok-4-20-reasoning | 262144 |
-| grok-large | 1048576 |
-| gemini-search | 1048576 |
-| gemini-search-fast | 1048576 |
-| gemini-search-large | 1048576 |
+| openai | 400k |
+| openai-fast | 400k |
+| gpt-5.4 | 1.1M |
+| gpt-5.4-mini | 400k |
+| openai-large | 1.1M |
+| gpt-5.6-sol | 1.1M |
+| gpt-5.6-terra | 1.1M |
+| gpt-5.6-luna | 1.1M |
+| mercury | 128k |
+| qwen-coder | 262k |
+| mistral-small-3.2 | 128k |
+| mistral | 262k |
+| openai-audio | 128k |
+| openai-audio-large | 128k |
+| gemini-3-flash | 1.0M |
+| gemini | 1.0M |
+| gemini-flash-lite-3.1 | 1.0M |
+| gemini-fast | 1.0M |
+| deepseek | 1.0M |
+| gemma | 262k |
+| deepseek-pro | 1.0M |
+| grok | 262k |
+| grok-4-20-reasoning | 262k |
+| grok-large | 1.0M |
+| gemini-search | 1.0M |
+| gemini-search-fast | 1.0M |
+| gemini-search-large | 1.0M |
 | midijourney | ? |
 | midijourney-large | ? |
-| claude-fast | 200000 |
-| claude | 1000000 |
-| claude-sonnet-5 | 1000000 |
-| claude-opus-4.6 | 1000000 |
-| claude-opus-4.7 | 1000000 |
-| claude-large | 1000000 |
-| claude-fable-5 | 1000000 |
-| perplexity-fast | 128000 |
-| perplexity-deep | 128000 |
-| perplexity | 200000 |
-| perplexity-reasoning | 128000 |
-| kimi | 262000 |
-| kimi-code | 262144 |
-| gemini-large | 1048576 |
-| nova-fast | 128000 |
-| nova | 1048576 |
-| glm | 1048576 |
-| llama | 131072 |
-| llama-maverick | 1048576 |
-| llama-scout | 327680 |
-| minimax-m2.7 | 200000 |
-| minimax | 524288 |
-| muse-spark-1.1 | 1048576 |
-| mistral-large | 256000 |
+| claude-fast | 200k |
+| claude | 1M |
+| claude-sonnet-5 | 1M |
+| claude-opus-4.6 | 1M |
+| claude-opus-4.7 | 1M |
+| claude-large | 1M |
+| claude-fable-5 | 1M |
+| perplexity-fast | 128k |
+| perplexity-deep | 128k |
+| perplexity | 200k |
+| perplexity-reasoning | 128k |
+| kimi | 262k |
+| kimi-code | 262k |
+| gemini-large | 1.0M |
+| nova-fast | 128k |
+| nova | 1.0M |
+| glm | 1.0M |
+| llama | 131k |
+| llama-maverick | 1.0M |
+| llama-scout | 328k |
+| minimax-m2.7 | 200k |
+| minimax | 524k |
+| muse-spark-1.1 | 1.0M |
+| mistral-large | 256k |
 | polly | ? |
-| qwen-coder-large | 262144 |
-| qwen-large | 262000 |
-| qwen-vision | 131072 |
-| qwen-vision-pro | 262144 |
-| step-flash | 256000 |
-| step-3.5-flash | 262144 |
+| qwen-coder-large | 262k |
+| qwen-large | 262k |
+| qwen-vision | 131k |
+| qwen-vision-pro | 262k |
+| step-flash | 256k |
+| step-3.5-flash | 262k |
 | qwen-safety | ? |
 | voodoohop/anyvm-deepseek-chat | ? |
 | voodoohop/airforce-qwen3-max | ? |
@@ -1038,6 +1243,7 @@ Free AI inference providers with details.
 | YoannDev90/gpt-5.4-mini | ? |
 | Catniti/gpt-5.6-luna | ? |
 | Catniti/gpt-5.5 | ? |
+| Spit-fires/free | ? |
 | kontext | ? |
 | nanobanana | ? |
 | nanobanana-2 | ? |
@@ -1080,7 +1286,7 @@ Free AI inference providers with details.
 | trellis-2-medium | ? |
 | trellis-2-high | ? |
 | hyper3d-rodin | ? |
-| gpt-realtime-2 | 128000 |
+| gpt-realtime-2 | 128k |
 | elevenlabs | ? |
 | elevenflash | ? |
 | eleven-multilingual-v2 | ? |
@@ -1095,11 +1301,11 @@ Free AI inference providers with details.
 | stable-audio-3-large | ? |
 | qwen-tts | ? |
 | qwen-tts-instruct | ? |
-| gemini-2 | 8192 |
-| openai-3-small | 8192 |
-| openai-3-large | 8192 |
-| cohere-embed-v4 | 128000 |
-| qwen3-embedding-8b | 32768 |
+| gemini-2 | 8k |
+| openai-3-small | 8k |
+| openai-3-large | 8k |
+| cohere-embed-v4 | 128k |
+| qwen3-embedding-8b | 33k |
 
 </details>
 <details id="pydantic-ai-gateway">
@@ -1112,10 +1318,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://ai.pydantic.dev/gateway/](https://ai.pydantic.dev/gateway/)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -1134,10 +1345,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://www.requesty.ai/solution/llm-routing/models?price=free](https://www.requesty.ai/solution/llm-routing/models?price=free)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -1156,10 +1372,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://www.resurge.one/models](https://www.resurge.one/models)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -1178,10 +1399,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://routeway.ai/models](https://routeway.ai/models)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -1200,10 +1426,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://api.sixfinger.live](https://api.sixfinger.live)
+
 **Tested:** No (2026-07-09)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -1222,10 +1453,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://studiolm.dev/](https://studiolm.dev/)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -1244,10 +1480,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://subnp.com/free-api](https://subnp.com/free-api)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -1266,10 +1507,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://subaxis.dev/](https://subaxis.dev/)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -1288,10 +1534,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://swiftrouter.com/models?plan=starter](https://swiftrouter.com/models?plan=starter)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -1310,10 +1561,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://unorouter.com/en](https://unorouter.com/en)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -1332,10 +1588,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://www.valorgpt.com/models](https://www.valorgpt.com/models)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -1354,10 +1615,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://voidai.app/](https://voidai.app/)
+
 **Tested:** No (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -1376,10 +1642,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://ai-image-api.xeven.workers.dev/img](https://ai-image-api.xeven.workers.dev/img)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -1398,10 +1669,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://docs.z.ai/guides/overview/overview](https://docs.z.ai/guides/overview/overview)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models
@@ -1420,10 +1696,15 @@ Free AI inference providers with details.
 | 3/5 | 3/5 | 3/5 |
 
 **URL:** [https://zenllm.org/models](https://zenllm.org/models)
+
 **Tested:** Yes (2026-07-14)
+
 **Limits:** See provider documentation
+
 **Capabilities:** text
+
 **Pricing:** unknown
+
 **Community:** None
 
 ### Models

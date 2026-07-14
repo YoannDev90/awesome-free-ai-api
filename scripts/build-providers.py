@@ -66,6 +66,25 @@ def fetch_models(p):
 def stars(n):
     return "\u2605"*n+"\u2606"*(5-n)
 
+def format_context(ctx):
+    """Convert raw numbers to human-readable format (400000 -> 400k, 1048576 -> 1M)"""
+    if ctx == "?" or ctx is None:
+        return "?"
+    try:
+        n = int(ctx)
+        if n >= 1000000:
+            m = n / 1000000
+            if m == int(m):
+                return f"{int(m)}M"
+            else:
+                return f"{m:.1f}M".rstrip('0').rstrip('.')
+        elif n >= 1000:
+            return f"{n/1000:.0f}k"
+        else:
+            return str(n)
+    except:
+        return str(ctx)
+
 def gen_md(providers):
     lines=["# Provider Directory\n","Free AI inference providers with details.\n"]
     for p in providers:
@@ -95,7 +114,8 @@ def gen_md(providers):
         mt="| Model ID | Context |\n| --- | --- |\n"
         if models:
             for m in models:
-                mt+=f"| {m['id']} | {m.get('context','?')} |\n"
+                ctx = format_context(m.get('context','?'))
+                mt+=f"| {m['id']} | {ctx} |\n"
         else:
             mt+="| *Not publicly listed* | *Not publicly listed* |\n"
         note_b=f"\n> {note}\n" if note else ""
@@ -110,10 +130,15 @@ def gen_md(providers):
 | {st} | {mc} | {lm} |
 
 **URL:** [{url}]({url}){doc_s}
+
 **Tested:** {test_frag}
+
 **Limits:** {limits}
+
 **Capabilities:** {caps}
+
 **Pricing:** {pricing}
+
 **Community:** {com_s}
 {note_b}
 ### Models
