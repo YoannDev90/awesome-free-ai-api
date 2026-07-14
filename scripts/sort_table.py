@@ -10,10 +10,10 @@ import re
 README_PATH = Path(__file__).resolve().parents[1] / "README.md"
 
 ROW_PATTERN = re.compile(
-    r"^\|\s*\[(?P<name>[^\]]+)\]\(https?://[^)]+\)\s*\|.*\|$"
+    r"^\|\s*\[(?P<name>[^\]]+)\]\(https?://[^)]+\)\s*\|\s*\[More info\]\(config/PROVIDERS\.md#[^\)]+\)\s*\|$"
 )
 
-SECTION_HEADER = "| Name "
+SECTION_HEADER = "| Name"
 SECTION_FOOTER_PATTERN = re.compile(r"^\| --")
 
 
@@ -31,7 +31,7 @@ def extract_rows(lines: list[str]) -> tuple[int, int, list[str], list[str]]:
                     matchable.append(line)
                 elif SECTION_FOOTER_PATTERN.match(line):
                     pass  # skip separator row
-                elif line.startswith("| Name "):
+                elif line.startswith("| Name"):
                     pass  # skip stray header row
                 else:
                     unmatched.append(line)

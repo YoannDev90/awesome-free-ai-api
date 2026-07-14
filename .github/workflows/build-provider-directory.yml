@@ -1,0 +1,42 @@
+name: Build provider directory
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install sops
+        run: |
+          curl -LO https://github.com/getsops/sops/releases/latest/download/sops-linux-amd64
+          chmod +x sops-linux-amd64 && sudo mv sops-linux-amd64 /usr/local/bin/sops
+
+      - name: Decrypt API keys
+        run: |
+          echo "${{ secrets.SOPS_AGE_KEY }}" > /tmp/sops-age-key
+          sops --decrypt --age $(cat /tmp/sops-age-key) config/api-keys.secret.json > /tmp/api-keys.json
+
+      - name: Build provider directory
+        run: python3 scripts/build-providers.py
+
+      - name: Build site
+        run: python3 scripts/build-providers.py --all
+
+      - name: Commit PROVIDERS.md and site
+        run: |
+          git add -A
+          git diff --cached --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: update provider directory [skip ci]"
+          git push

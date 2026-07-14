@@ -1,0 +1,1349 @@
+{
+  "$schema": "v1",
+  "providers": [
+    {
+      "name": "A4F",
+      "url": "https://www.a4f.co/models",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "AI Horde",
+      "url": "https://aihorde.net/details/models",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "AI Pooled",
+      "url": "https://ai.pooled.dev",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "AIHubMix",
+      "url": "https://aihubmix.com/models",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "AIchixia",
+      "url": "https://www.aichixia.xyz/",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "Apertis",
+      "url": "https://apertis.ai/models?sort=price_low",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "AquaDevs",
+      "url": "https://aquadevs.com/plan",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "AwanLLM",
+      "url": "https://www.awanllm.com/models",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "BlazeAI",
+      "url": "https://blazeai.boxu.dev/#models",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "Cerebras",
+      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "Cloudflare Workers",
+      "url": "https://developers.cloudflare.com/workers-ai/models/",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "CoderPlan",
+      "url": "https://coderplan.ai",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "Cohere",
+      "url": "https://docs.cohere.com/v1/docs/models#command",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "FastRouter",
+      "url": "https://fastrouter.ai/models/",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "FreeTheAI",
+      "url": "https://freetheai.xyz/models/",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "GitHub Models",
+      "url": "https://github.com/marketplace?type=models",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "Google AI Studio",
+      "url": "https://ai.google.dev/gemini-api/docs/models",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "Groq",
+      "url": "https://console.groq.com/docs/models",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "Hubs02225",
+      "url": "https://hubs02225.snia.ch/",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "Inception Platform",
+      "url": "https://platform.inceptionlabs.ai/",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": false,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "LLM-Gateway",
+      "url": "https://llmgateway.io/models?filters=1&free=true",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "LLM7",
+      "url": "https://llm7.io",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "LiteRouter",
+      "url": "https://literouter.com/model_list",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "Logfare",
+      "url": "https://logfare.ai/",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "MNN AI",
+      "url": "https://mnnai.ru/",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "MegaNova",
+      "url": "https://console.meganova.ai/serverless",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "MincAPI",
+      "url": "https://mincapi.space-z.ai/",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-01",
+      "note": null
+    },
+    {
+      "name": "Mistral",
+      "url": "https://docs.mistral.ai/getting-started/models/models_overview/",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "Mistral Codestral",
+      "url": "https://docs.mistral.ai/getting-started/models",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "Mixedbread",
+      "url": "https://www.mixedbread.com/pricing",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "NVIDIA NIM",
+      "url": "https://build.nvidia.com/models",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "NagaAI",
+      "url": "https://naga.ac/models",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "Navy AI",
+      "url": "https://api.navy",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": false,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "Nexusify",
+      "url": "https://docs.nexusify.co/",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "OhMyGPT",
+      "url": "https://www.ohmygpt.com/pricing",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "Ollama Cloud",
+      "url": "https://ollama.com/api/tags",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "OpenCode Zen",
+      "url": "https://opencode.ai/zen/v1/models",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "OpenRouter",
+      "url": "https://openrouter.ai/models?max_price=0",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "PaxSenix API",
+      "url": "https://api.paxsenix.org/docs",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "Pixazo AI",
+      "url": "https://www.pixazo.ai/api/pricing-plan",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "Pollinations",
+      "url": "https://enter.pollinations.ai/",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "Pydantic AI Gateway",
+      "url": "https://ai.pydantic.dev/gateway/",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "Requesty AI",
+      "url": "https://www.requesty.ai/solution/llm-routing/models?price=free",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "Resurge",
+      "url": "https://www.resurge.one/models",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "Routeway AI",
+      "url": "https://routeway.ai/models",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "SixFingerAPI",
+      "url": "https://api.sixfinger.live",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": false,
+      "tested_by": null,
+      "last_checked": "2026-07-09",
+      "note": null
+    },
+    {
+      "name": "StudioLM",
+      "url": "https://studiolm.dev/",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "SubNP",
+      "url": "https://subnp.com/free-api",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "Subaxis",
+      "url": "https://subaxis.dev/",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "SwiftRouter",
+      "url": "https://swiftrouter.com/models?plan=starter",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "UnoRouter",
+      "url": "https://unorouter.com/en",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "ValorGPT",
+      "url": "https://www.valorgpt.com/models",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "Void AI",
+      "url": "https://voidai.app/",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": false,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "Xeven Worker",
+      "url": "https://ai-image-api.xeven.workers.dev/img",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "Z.AI",
+      "url": "https://docs.z.ai/guides/overview/overview",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    },
+    {
+      "name": "ZenLLM",
+      "url": "https://zenllm.org/models",
+      "docs_url": null,
+      "discord_url": null,
+      "telegram_url": null,
+      "needs_api_key": false,
+      "api_key_env": null,
+      "models": null,
+      "ratings": {
+        "stability": 3,
+        "model_choice": 3,
+        "limits": 3
+      },
+      "limits": "See provider documentation",
+      "capabilities": [
+        "text"
+      ],
+      "pricing_model": "unknown",
+      "tested": true,
+      "tested_by": null,
+      "last_checked": "2026-07-14",
+      "note": null
+    }
+  ]
+}

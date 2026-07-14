@@ -31,64 +31,64 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 
 ## 🔗 API PROVIDERS
 
-| Name                                                                                         | Models                                                                         | Requirements                                   | Tested | Last checked | Status                                |
-| -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ---------------------------------------------- | ------ | ------------ | ------------------------------------- |
-| [A4F](https://www.a4f.co/models)                                                             | [Models](https://gratisfy.xyz/terminal?cap=none&providers=a4f)                 | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [AI Horde](https://aihorde.net/details/models)                                               | [Models](https://gratisfy.xyz/terminal?cap=none&providers=ai-horde)            | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [AI Pooled](https://ai.pooled.dev)                                                           | [Models](https://gratisfy.xyz/terminal?cap=none&providers=ai-pooled)           | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [AIchixia](https://www.aichixia.xyz/)                                                        | [Models](https://gratisfy.xyz/terminal?cap=none&providers=aichixia)            | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [AIHubMix](https://aihubmix.com/models)                                                      | [Models](https://gratisfy.xyz/terminal?cap=none&providers=aihubmix)            | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [Apertis](https://apertis.ai/models?sort=price_low)                                          | [Models](https://gratisfy.xyz/terminal?cap=none&providers=apertis)             | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [AquaDevs](https://aquadevs.com/plan)                                                        | [Models](https://gratisfy.xyz/terminal?cap=none&providers=aquadevs)            | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [AwanLLM](https://www.awanllm.com/models)                                                    | [Models](https://gratisfy.xyz/terminal?cap=none&providers=awanllm)             | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [BlazeAI](https://blazeai.boxu.dev/#models)                                                  | [Models](https://gratisfy.xyz/terminal?cap=none&providers=blazeai)             | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [Cerebras](https://inference-docs.cerebras.ai/models/overview)                               | [Models](https://gratisfy.xyz/terminal?cap=none&providers=cerebras)            | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [Cloudflare Workers](https://developers.cloudflare.com/workers-ai/models/)                   | [Models](https://gratisfy.xyz/terminal?cap=none&providers=cloudflare)          | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [CoderPlan](https://coderplan.ai)                                                              | [Models](https://coderplan.ai/models)                                           | [Requirements](https://coderplan.ai)           | ✅      | 2026-07-14   | [Status](https://coderplan.ai) |
-| [Cohere](https://docs.cohere.com/v1/docs/models#command)                                     | [Models](https://gratisfy.xyz/terminal?cap=none&providers=cohere)              | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [FastRouter](https://fastrouter.ai/models/)                                                  | [Models](https://gratisfy.xyz/terminal?cap=none&providers=fastrouter)          | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [FreeTheAI](https://freetheai.xyz/models/)                                                   | [Models](https://gratisfy.xyz/terminal?cap=none&providers=secrets)             | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [GitHub Models](https://github.com/marketplace?type=models)                                  | [Models](https://gratisfy.xyz/terminal?cap=none&providers=github-models)       | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [Google AI Studio](https://ai.google.dev/gemini-api/docs/models)                             | [Models](https://gratisfy.xyz/terminal?cap=none&providers=google-ai-studio)    | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [Groq](https://console.groq.com/docs/models)                                                 | [Models](https://gratisfy.xyz/terminal?cap=none&providers=groq)                | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [Hubs02225](https://hubs02225.snia.ch/)                                                      | [Models](https://gratisfy.xyz/terminal?cap=none&providers=hubs02225)           | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [Inception Platform](https://platform.inceptionlabs.ai/)                                                              | [Models](https://docs.inceptionlabs.ai/get-started/models#models-endpoints-and-pricing)                                           | [Requirements](https://docs.inceptionlabs.ai/get-started/get-started)           | ❌      | 2026-07-14   | [Status](https://platform.inceptionlabs.ai/) |
-| [LiteRouter](https://literouter.com/model_list)                                              | [Models](https://gratisfy.xyz/terminal?cap=none&providers=literouter)          | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [LLM-Gateway](https://llmgateway.io/models?filters=1&free=true)                              | [Models](https://gratisfy.xyz/terminal?cap=none&providers=llmgateway)          | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [LLM7](https://llm7.io)                                                                      | [Models](https://gratisfy.xyz/terminal?cap=none&providers=llm7)                | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [Logfare](https://logfare.ai/)                                                                | [Models](https://gratisfy.xyz/terminal?cap=none&providers=logfare)             | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [MegaNova](https://console.meganova.ai/serverless)                                           | [Models](https://gratisfy.xyz/terminal?cap=none&providers=meganova)            | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [MincAPI](https://mincapi.space-z.ai/)                                                       | [Models](https://mincapi.space-z.ai/api/v1/models)                             | [Requirements](https://mincapi.space-z.ai/#quickstart)           | ✅      | 2026-07-01   | |
-| [Mistral Codestral](https://docs.mistral.ai/getting-started/models)                          | [Models](https://gratisfy.xyz/terminal?cap=none&providers=mistral-codestral)   | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [Mistral](https://docs.mistral.ai/getting-started/models/models_overview/)                   | [Models](https://gratisfy.xyz/terminal?cap=none&providers=mistral)             | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [Mixedbread](https://www.mixedbread.com/pricing)                                             | [Models](https://gratisfy.xyz/terminal?cap=none&providers=mixedbread)          | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [MNN AI](https://mnnai.ru/)                                                                  | [Models](https://gratisfy.xyz/terminal?cap=none&providers=mnn)                 | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [NagaAI](https://naga.ac/models)                                                             | [Models](https://gratisfy.xyz/terminal?cap=none&providers=naga)                | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [Navy AI](https://api.navy)                                                                  | [Models](https://gratisfy.xyz/terminal?cap=none&providers=navy)                | [Requirements](https://gratisfy.xyz/providers) | ❌      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [Nexusify](https://docs.nexusify.co/)                                                        | [Models](https://gratisfy.xyz/terminal?cap=none&providers=nexusify)            | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [NVIDIA NIM](https://build.nvidia.com/models)                                                | [Models](https://gratisfy.xyz/terminal?cap=none&providers=nvidia-nim)          | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [OhMyGPT](https://www.ohmygpt.com/pricing)                                                   | [Models](https://gratisfy.xyz/terminal?cap=none&providers=ohmygpt)             | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [Ollama Cloud](https://ollama.com/api/tags)                                                  | [Models](https://gratisfy.xyz/terminal?cap=none&providers=ollama)              | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [OpenCode Zen](https://opencode.ai/zen/v1/models)                                            | [Models](https://gratisfy.xyz/terminal?cap=none&providers=opencode-zen)        | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [OpenRouter](https://openrouter.ai/models?max_price=0)                                       | [Models](https://gratisfy.xyz/terminal?cap=none&providers=openrouter)          | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [PaxSenix API](https://api.paxsenix.org/docs)                                                | [Models](https://gratisfy.xyz/terminal?cap=none&providers=paxsenix)            | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [Pixazo AI](https://www.pixazo.ai/api/pricing-plan)                                          | [Models](https://gratisfy.xyz/terminal?cap=none&providers=pixazo)              | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [Pollinations](https://enter.pollinations.ai/)                                               | [Models](https://gratisfy.xyz/terminal?cap=none&providers=pollinations)        | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [Pydantic AI Gateway](https://ai.pydantic.dev/gateway/)                                      | [Models](https://gratisfy.xyz/terminal?cap=none&providers=pydantic-ai-gateway) | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [Requesty AI](https://www.requesty.ai/solution/llm-routing/models?price=free)                | [Models](https://gratisfy.xyz/terminal?cap=none&providers=requesty)            | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [Resurge](https://www.resurge.one/models)                                                    | [Models](https://gratisfy.xyz/terminal?cap=none&providers=resurge)             | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [Routeway AI](https://routeway.ai/models)                                                    | [Models](https://gratisfy.xyz/terminal?cap=none&providers=routeway)            | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [SixFingerAPI](https://api.sixfinger.live)                                                              | [Models](https://api.sixfinger.live/docs#models)                                           | [Requirements](https://api.sixfinger.live/#plans)           | ❌      | 2026-07-09   | |
-| [StudioLM](https://studiolm.dev/)                                                            | [Models](https://gratisfy.xyz/terminal?cap=none&providers=studiolm)            | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [Subaxis](https://subaxis.dev/)                                                              | [Models](https://gratisfy.xyz/terminal?cap=none&providers=subaxis)             | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [SubNP](https://subnp.com/free-api)                                                          | [Models](https://gratisfy.xyz/terminal?cap=none&providers=subnp)               | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [SwiftRouter](https://swiftrouter.com/models?plan=starter)                                   | [Models](https://gratisfy.xyz/terminal?cap=none&providers=swiftrouter)         | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [UnoRouter](https://unorouter.com/en)                                                        | [Models](https://gratisfy.xyz/terminal?cap=none&providers=unorouter)           | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [ValorGPT](https://www.valorgpt.com/models)                                                  | [Models](https://gratisfy.xyz/terminal?cap=none&providers=valorgpt)            | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [Void AI](https://voidai.app/)                                                               | [Models](https://gratisfy.xyz/terminal?cap=none&providers=voidai)              | [Requirements](https://gratisfy.xyz/providers) | ❌      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [Xeven Worker](https://ai-image-api.xeven.workers.dev/img)                                   | [Models](https://gratisfy.xyz/terminal?cap=none&providers=xeven-worker)        | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [Z.AI](https://docs.z.ai/guides/overview/overview)                                           | [Models](https://gratisfy.xyz/terminal?cap=none&providers=zai)                 | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
-| [ZenLLM](https://zenllm.org/models)                                                          | [Models](https://gratisfy.xyz/terminal?cap=none&providers=zenllm)              | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
+| Name | Details |
+|---|---|
+| [A4F](https://www.a4f.co/models) | [More info](config/PROVIDERS.md#a4f) |
+| [AI Horde](https://aihorde.net/details/models) | [More info](config/PROVIDERS.md#ai-horde) |
+| [AI Pooled](https://ai.pooled.dev) | [More info](config/PROVIDERS.md#ai-pooled) |
+| [AIchixia](https://www.aichixia.xyz/) | [More info](config/PROVIDERS.md#aichixia) |
+| [AIHubMix](https://aihubmix.com/models) | [More info](config/PROVIDERS.md#aihubmix) |
+| [Apertis](https://apertis.ai/models?sort=price_low) | [More info](config/PROVIDERS.md#apertis) |
+| [AquaDevs](https://aquadevs.com/plan) | [More info](config/PROVIDERS.md#aquadevs) |
+| [AwanLLM](https://www.awanllm.com/models) | [More info](config/PROVIDERS.md#awanllm) |
+| [BlazeAI](https://blazeai.boxu.dev/#models) | [More info](config/PROVIDERS.md#blazeai) |
+| [Cerebras](https://inference-docs.cerebras.ai/models/overview) | [More info](config/PROVIDERS.md#cerebras) |
+| [Cloudflare Workers](https://developers.cloudflare.com/workers-ai/models/) | [More info](config/PROVIDERS.md#cloudflare-workers) |
+| [CoderPlan](https://coderplan.ai) | [More info](config/PROVIDERS.md#coderplan) |
+| [Cohere](https://docs.cohere.com/v1/docs/models#command) | [More info](config/PROVIDERS.md#cohere) |
+| [FastRouter](https://fastrouter.ai/models/) | [More info](config/PROVIDERS.md#fastrouter) |
+| [FreeTheAI](https://freetheai.xyz/models/) | [More info](config/PROVIDERS.md#freetheai) |
+| [GitHub Models](https://github.com/marketplace?type=models) | [More info](config/PROVIDERS.md#github-models) |
+| [Google AI Studio](https://ai.google.dev/gemini-api/docs/models) | [More info](config/PROVIDERS.md#google-ai-studio) |
+| [Groq](https://console.groq.com/docs/models) | [More info](config/PROVIDERS.md#groq) |
+| [Hubs02225](https://hubs02225.snia.ch/) | [More info](config/PROVIDERS.md#hubs02225) |
+| [Inception Platform](https://platform.inceptionlabs.ai/) | [More info](config/PROVIDERS.md#inception-platform) |
+| [LiteRouter](https://literouter.com/model_list) | [More info](config/PROVIDERS.md#literouter) |
+| [LLM-Gateway](https://llmgateway.io/models?filters=1&free=true) | [More info](config/PROVIDERS.md#llm-gateway) |
+| [LLM7](https://llm7.io) | [More info](config/PROVIDERS.md#llm7) |
+| [Logfare](https://logfare.ai/) | [More info](config/PROVIDERS.md#logfare) |
+| [MegaNova](https://console.meganova.ai/serverless) | [More info](config/PROVIDERS.md#meganova) |
+| [MincAPI](https://mincapi.space-z.ai/) | [More info](config/PROVIDERS.md#mincapi) |
+| [Mistral Codestral](https://docs.mistral.ai/getting-started/models) | [More info](config/PROVIDERS.md#mistral-codestral) |
+| [Mistral](https://docs.mistral.ai/getting-started/models/models_overview/) | [More info](config/PROVIDERS.md#mistral) |
+| [Mixedbread](https://www.mixedbread.com/pricing) | [More info](config/PROVIDERS.md#mixedbread) |
+| [MNN AI](https://mnnai.ru/) | [More info](config/PROVIDERS.md#mnn-ai) |
+| [NagaAI](https://naga.ac/models) | [More info](config/PROVIDERS.md#nagaai) |
+| [Navy AI](https://api.navy) | [More info](config/PROVIDERS.md#navy-ai) |
+| [Nexusify](https://docs.nexusify.co/) | [More info](config/PROVIDERS.md#nexusify) |
+| [NVIDIA NIM](https://build.nvidia.com/models) | [More info](config/PROVIDERS.md#nvidia-nim) |
+| [OhMyGPT](https://www.ohmygpt.com/pricing) | [More info](config/PROVIDERS.md#ohmygpt) |
+| [Ollama Cloud](https://ollama.com/api/tags) | [More info](config/PROVIDERS.md#ollama-cloud) |
+| [OpenCode Zen](https://opencode.ai/zen/v1/models) | [More info](config/PROVIDERS.md#opencode-zen) |
+| [OpenRouter](https://openrouter.ai/models?max_price=0) | [More info](config/PROVIDERS.md#openrouter) |
+| [PaxSenix API](https://api.paxsenix.org/docs) | [More info](config/PROVIDERS.md#paxsenix-api) |
+| [Pixazo AI](https://www.pixazo.ai/api/pricing-plan) | [More info](config/PROVIDERS.md#pixazo-ai) |
+| [Pollinations](https://enter.pollinations.ai/) | [More info](config/PROVIDERS.md#pollinations) |
+| [Pydantic AI Gateway](https://ai.pydantic.dev/gateway/) | [More info](config/PROVIDERS.md#pydantic-ai-gateway) |
+| [Requesty AI](https://www.requesty.ai/solution/llm-routing/models?price=free) | [More info](config/PROVIDERS.md#requesty-ai) |
+| [Resurge](https://www.resurge.one/models) | [More info](config/PROVIDERS.md#resurge) |
+| [Routeway AI](https://routeway.ai/models) | [More info](config/PROVIDERS.md#routeway-ai) |
+| [SixFingerAPI](https://api.sixfinger.live) | [More info](config/PROVIDERS.md#sixfingerapi) |
+| [StudioLM](https://studiolm.dev/) | [More info](config/PROVIDERS.md#studiolm) |
+| [Subaxis](https://subaxis.dev/) | [More info](config/PROVIDERS.md#subaxis) |
+| [SubNP](https://subnp.com/free-api) | [More info](config/PROVIDERS.md#subnp) |
+| [SwiftRouter](https://swiftrouter.com/models?plan=starter) | [More info](config/PROVIDERS.md#swiftrouter) |
+| [UnoRouter](https://unorouter.com/en) | [More info](config/PROVIDERS.md#unorouter) |
+| [ValorGPT](https://www.valorgpt.com/models) | [More info](config/PROVIDERS.md#valorgpt) |
+| [Void AI](https://voidai.app/) | [More info](config/PROVIDERS.md#void-ai) |
+| [Xeven Worker](https://ai-image-api.xeven.workers.dev/img) | [More info](config/PROVIDERS.md#xeven-worker) |
+| [Z.AI](https://docs.z.ai/guides/overview/overview) | [More info](config/PROVIDERS.md#zai) |
+| [ZenLLM](https://zenllm.org/models) | [More info](config/PROVIDERS.md#zenllm) |
 
 ---
 

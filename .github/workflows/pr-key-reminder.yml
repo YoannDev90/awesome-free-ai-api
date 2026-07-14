@@ -1,0 +1,32 @@
+name: PR key reminder
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+
+permissions:
+  pull-requests: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check if new providers need an API key
+        id: check
+        run: |
+          # Diff PROVIDERS.json against main to detect new providers with needs_api_key
+          keys=$(git diff origin/main...HEAD -- config/PROVIDERS.json | grep -E '^\+\s*"api_key_env"' | sed 's/.*: "\(.*\)",/\1/')
+          if [ -n "$keys" ]; then
+            echo "api_keys=$keys" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Comment on PR
+        if: steps.check.outputs.api_keys
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const keys = '${{ steps.check.outputs.api_keys }}'.split('\n');
+            const body = `New provider(s) need an API key to be added to \`config/api-keys.secret.json\`:\n\n${keys.map(k => `- \`${k}\``).join('\n')}\n\n@maintainer please add them using \`sops config/api-keys.secret.json\`.`;
+            github.rest.issues.createComment({ issue_number: context.issue.number, owner: context.repo.owner, repo: context.repo.repo, body });
