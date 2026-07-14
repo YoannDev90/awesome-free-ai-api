@@ -6,7 +6,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 ![GitHub forks](https://img.shields.io/github/forks/YoannDev90/awesome-free-ai-api?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/YoannDev90/awesome-free-ai-api?style=for-the-badge&label=issues)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/YoannDev90/awesome-free-ai-api?style=for-the-badge&label=pull%20requests)
-![API count](https://img.shields.io/badge/API_Count-54-blue?style=for-the-badge)
+![API count](https://img.shields.io/badge/API_Count-56-blue?style=for-the-badge)
 
 ![Alt](https://repobeats.axiom.co/api/embed/1e91e9854d6f1da8fb7d9123fe83345a334c7435.svg "Repobeats analytics image")
 
@@ -35,6 +35,8 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ---------------------------------------------- | ------ | ------------ | ------------------------------------- |
 | [A4F](https://www.a4f.co/models)                                                             | [Models](https://gratisfy.xyz/terminal?cap=none&providers=a4f)                 | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-13   | [Status](https://gratisfy.xyz/status) |
 | [AI Horde](https://aihorde.net/details/models)                                               | [Models](https://gratisfy.xyz/terminal?cap=none&providers=ai-horde)            | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-13   | [Status](https://gratisfy.xyz/status) |
+| [AI Pooled](https://ai.pooled.dev)                                                           | [Models](https://gratisfy.xyz/terminal?cap=none&providers=ai-pooled)           | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
+| [AIchixia](https://www.aichixia.xyz/)                                                        | [Models](https://gratisfy.xyz/terminal?cap=none&providers=aichixia)            | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
 | [AIHubMix](https://aihubmix.com/models)                                                      | [Models](https://gratisfy.xyz/terminal?cap=none&providers=aihubmix)            | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-13   | [Status](https://gratisfy.xyz/status) |
 | [Apertis](https://apertis.ai/models?sort=price_low)                                          | [Models](https://gratisfy.xyz/terminal?cap=none&providers=apertis)             | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-13   | [Status](https://gratisfy.xyz/status) |
 | [AquaDevs](https://aquadevs.com/plan)                                                        | [Models](https://gratisfy.xyz/terminal?cap=none&providers=aquadevs)            | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-13   | [Status](https://gratisfy.xyz/status) |
@@ -130,7 +132,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 - 25 June 2026 : Delete Infip
 - 01 July 2026 : Add MincAPI
 - 09 July 2026 : Add SixFingerAPI
-- 14 July 2026 : Add Subaxis, UnoRouter, Logfare. Remove Friendli AI
+- 14 July 2026 : Add Subaxis, UnoRouter, Logfare, AIchixia, AI Pooled. Remove Friendli AI
 
 ## ⛳ Contributing
 
