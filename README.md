@@ -6,7 +6,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 ![GitHub forks](https://img.shields.io/github/forks/YoannDev90/awesome-free-ai-api?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/YoannDev90/awesome-free-ai-api?style=for-the-badge&label=issues)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/YoannDev90/awesome-free-ai-api?style=for-the-badge&label=pull%20requests)
-![API count](https://img.shields.io/badge/API_Count-53-blue?style=for-the-badge)
+![API count](https://img.shields.io/badge/API_Count-54-blue?style=for-the-badge)
 
 ![Alt](https://repobeats.axiom.co/api/embed/1e91e9854d6f1da8fb7d9123fe83345a334c7435.svg "Repobeats analytics image")
 
@@ -56,6 +56,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 | [LLM-Gateway](https://llmgateway.io/models?filters=1&free=true)                              | [Models](https://gratisfy.xyz/terminal?cap=none&providers=llmgateway)          | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-13   | [Status](https://gratisfy.xyz/status) |
 | [LLM7](https://llm7.io)                                                                      | [Models](https://gratisfy.xyz/terminal?cap=none&providers=llm7)                | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-13   | [Status](https://gratisfy.xyz/status) |
 | [MegaNova](https://console.meganova.ai/serverless)                                           | [Models](https://gratisfy.xyz/terminal?cap=none&providers=meganova)            | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-13   | [Status](https://gratisfy.xyz/status) |
+| [MincAPI](https://mincapi.space-z.ai/)                                                       | [Models](https://mincapi.space-z.ai/api/v1/models)                             | [Requirements](https://mincapi.space-z.ai/#quickstart)           | ✅      | 2026-07-01   | |
 | [Mistral Codestral](https://docs.mistral.ai/getting-started/models)                          | [Models](https://gratisfy.xyz/terminal?cap=none&providers=mistral-codestral)   | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-13   | [Status](https://gratisfy.xyz/status) |
 | [Mistral](https://docs.mistral.ai/getting-started/models/models_overview/)                   | [Models](https://gratisfy.xyz/terminal?cap=none&providers=mistral)             | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-13   | [Status](https://gratisfy.xyz/status) |
 | [Mixedbread](https://www.mixedbread.com/pricing)                                             | [Models](https://gratisfy.xyz/terminal?cap=none&providers=mixedbread)          | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-13   | [Status](https://gratisfy.xyz/status) |
