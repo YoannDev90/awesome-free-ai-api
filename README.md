@@ -46,7 +46,6 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 | [Cohere](https://docs.cohere.com/v1/docs/models#command)                                     | [Models](https://gratisfy.xyz/terminal?cap=none&providers=cohere)              | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-13   | [Status](https://gratisfy.xyz/status) |
 | [FastRouter](https://fastrouter.ai/models/)                                                  | [Models](https://gratisfy.xyz/terminal?cap=none&providers=fastrouter)          | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-13   | [Status](https://gratisfy.xyz/status) |
 | [FreeTheAI](https://freetheai.xyz/models/)                                                   | [Models](https://gratisfy.xyz/terminal?cap=none&providers=secrets)             | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-13   | [Status](https://gratisfy.xyz/status) |
-| [Friendli AI](https://friendli.ai/pricing)                                                   | [Models](https://gratisfy.xyz/terminal?cap=none&providers=friendli)            | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-13   | [Status](https://gratisfy.xyz/status) |
 | [GitHub Models](https://github.com/marketplace?type=models)                                  | [Models](https://gratisfy.xyz/terminal?cap=none&providers=github-models)       | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-13   | [Status](https://gratisfy.xyz/status) |
 | [Google AI Studio](https://ai.google.dev/gemini-api/docs/models)                             | [Models](https://gratisfy.xyz/terminal?cap=none&providers=google-ai-studio)    | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-13   | [Status](https://gratisfy.xyz/status) |
 | [Groq](https://console.groq.com/docs/models)                                                 | [Models](https://gratisfy.xyz/terminal?cap=none&providers=groq)                | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-13   | [Status](https://gratisfy.xyz/status) |
@@ -55,6 +54,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 | [LiteRouter](https://literouter.com/model_list)                                              | [Models](https://gratisfy.xyz/terminal?cap=none&providers=literouter)          | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-13   | [Status](https://gratisfy.xyz/status) |
 | [LLM-Gateway](https://llmgateway.io/models?filters=1&free=true)                              | [Models](https://gratisfy.xyz/terminal?cap=none&providers=llmgateway)          | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-13   | [Status](https://gratisfy.xyz/status) |
 | [LLM7](https://llm7.io)                                                                      | [Models](https://gratisfy.xyz/terminal?cap=none&providers=llm7)                | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-13   | [Status](https://gratisfy.xyz/status) |
+| [Logfare](https://logfare.ai/)                                                                | [Models](https://gratisfy.xyz/terminal?cap=none&providers=logfare)             | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
 | [MegaNova](https://console.meganova.ai/serverless)                                           | [Models](https://gratisfy.xyz/terminal?cap=none&providers=meganova)            | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-13   | [Status](https://gratisfy.xyz/status) |
 | [MincAPI](https://mincapi.space-z.ai/)                                                       | [Models](https://mincapi.space-z.ai/api/v1/models)                             | [Requirements](https://mincapi.space-z.ai/#quickstart)           | ✅      | 2026-07-01   | |
 | [Mistral Codestral](https://docs.mistral.ai/getting-started/models)                          | [Models](https://gratisfy.xyz/terminal?cap=none&providers=mistral-codestral)   | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-13   | [Status](https://gratisfy.xyz/status) |
@@ -130,7 +130,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 - 25 June 2026 : Delete Infip
 - 01 July 2026 : Add MincAPI
 - 09 July 2026 : Add SixFingerAPI
-- 14 July 2026 : Add Subaxis, UnoRouter
+- 14 July 2026 : Add Subaxis, UnoRouter, Logfare. Remove Friendli AI
 
 ## ⛳ Contributing
 
