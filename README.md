@@ -90,7 +90,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 | [Z.AI](https://docs.z.ai/guides/overview/overview)                                           | [Models](https://gratisfy.xyz/terminal?cap=none&providers=zai)                 | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
 | [ZenLLM](https://zenllm.org/models)                                                          | [Models](https://gratisfy.xyz/terminal?cap=none&providers=zenllm)              | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-14   | [Status](https://gratisfy.xyz/status) |
 
---
+---
 
 > [!TIP]
 >- RPD: Requests Per Day
@@ -105,13 +105,12 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 
 ## ♻️ Updates
 
-<details open>
+<details close>
 <summary>2025</summary>
 
 - **October 2025**
 ```diff
 + Add Ollama Cloud, Io.net, NagaAI, OhMyGPT
-- Remove models list
 ```
 
 - **November 2025**
@@ -121,7 +120,6 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 
 - **December 2025**
 ```diff
-+ Update Pollinations link
 - Delete AI/ML API, Anannas AI
 ```
 
@@ -132,17 +130,13 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 
 - **January 2026**
 ```diff
-+ Add ZanityAI
-+ Add Apertis AI
-+ Add A4F, Requesty AI, PaxSenix API, Pydantic AI Gateway
-- Delete Bytez
-- Delete Io.net
++ Add ZanityAI, Apertis AI, A4F, Requesty AI, PaxSenix API, Pydantic AI Gateway
+- Delete Bytez, Io.net
 ```
 
 - **February 2026**
 ```diff
-+ Add Mixebread, Friendli AI, AiHubMix, TypeGPT, Infip AI, Aquadevs
-+ Add Routeway AI, Scitely, AwanLLM, SubNP
++ Add Mixebread, Friendli AI, AiHubMix, TypeGPT, Infip AI, Aquadevs, Routeway AI, Scitely, AwanLLM, SubNP
 - Delete Maple AI
 ```
 
@@ -165,17 +159,13 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 
 - **June 2026**
 ```diff
-+ Add Coderplan by @onepaperbox
-+ Add Inception platform
-- Remove Zanity, WatsonX, Vercel, Seraphyn, Happupy
-- Delete Infip
++ Add Coderplan, Inception platform
+- Remove Zanity, WatsonX, Vercel, Seraphyn, Happupy, Infip
 ```
 
 - **July 2026**
 ```diff
-+ Add MincAPI
-+ Add SixFingerAPI
-+ Add Subaxis, UnoRouter, Logfare, AIchixia, AI Pooled
++ Add MincAPI, SixFingerAPI, Subaxis, UnoRouter, Logfare, AIchixia, AI Pooled
 - Remove Friendli AI
 ```
 
@@ -196,4 +186,5 @@ Please ensure updates are accurate and follow the format.
 - @redac1ed. (Discord)
 - @kines966176 (Discord)
 - @morrisdweck (Discord)
+- @onepaperbox (Github)
 - [gratisfy.xyz](https://gratisfy.xyz/providers)
