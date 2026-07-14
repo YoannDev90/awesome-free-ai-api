@@ -105,17 +105,25 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 
 ## ♻️ Updates
 
-<details>
+<details open>
 <summary>2025</summary>
 
 - **October 2025**
-  - Remove models list
-  - Add Ollama Cloud, Io.net, NagaAI, OhMyGPT
+```diff
++ Add Ollama Cloud, Io.net, NagaAI, OhMyGPT
+- Remove models list
+```
+
 - **November 2025**
-  - Add LLM-Gateway, LLM7, Anannas AI
+```diff
++ Add LLM-Gateway, LLM7, Anannas AI
+```
+
 - **December 2025**
-  - Update Pollinations link
-  - Delete AI/ML API, Anannas AI
+```diff
++ Update Pollinations link
+- Delete AI/ML API, Anannas AI
+```
 
 </details>
 
