@@ -23,8 +23,9 @@ jobs:
 
       - name: Decrypt API keys
         run: |
-          echo "${{ secrets.SOPS_AGE_KEY }}" > /tmp/sops-age-key
-          sops --decrypt --age $(cat /tmp/sops-age-key) config/api-keys.secret.json > /tmp/api-keys.json
+          mkdir -p ~/.config/sops/age
+          echo "${{ secrets.SOPS_AGE_KEY }}" > ~/.config/sops/age/keys.txt
+          sops --decrypt config/api-keys.secret.json.enc > /tmp/api-keys.json
 
       - name: Build provider directory
         run: python3 scripts/build-providers.py

@@ -1,0 +1,3 @@
+creation_rules:
+  - path_regex: config/api-keys\.secret\.json$
+    age: age1k2h25hafhtn8jutfs0k2757em37awc7ehd5n6pae947vym84mqmqa58ads
