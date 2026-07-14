@@ -1,0 +1,1007 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Awesome Free AI Inference APIs</title><style>/* Base styles */
+:root {
+  --bg: #f8f9fa;
+  --text: #212529;
+  --card-bg: #fff;
+  --border: #dee2e6;
+  --link: #0d6efd;
+  --link-hover: #0a58ca;
+  --ok: #198754;
+  --no: #dc3545;
+  --star: #ffc107;
+  --muted: #6c757d;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #1a1a1a;
+    --text: #e0e0e0;
+    --card-bg: #2d2d2d;
+    --border: #444;
+    --link: #4da6ff;
+    --link-hover: #80c1ff;
+    --ok: #4caf50;
+    --no: #f44336;
+    --star: #ff9800;
+    --muted: #999;
+  }
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  color: var(--text);
+  background-color: var(--bg);
+  margin: 0;
+  padding: 0;
+}
+
+.co {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+header {
+  margin-bottom: 2rem;
+  text-align: center;
+  padding-top: 2rem;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.coun {
+  color: var(--muted);
+  margin-bottom: 1rem;
+}
+
+/* Search */
+.se {
+  width: 100%;
+  max-width: 400px;
+  padding: 0.75rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  font-size: 1rem;
+  background: var(--card-bg);
+  color: var(--text);
+}
+
+.se:focus {
+  outline: none;
+  border-color: var(--link);
+  box-shadow: 0 0 0 3px rgba(13, 110, 253, 0.25);
+}
+
+/* Cards */
+.c {
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  margin-bottom: 1rem;
+  background: var(--card-bg);
+  overflow: hidden;
+}
+
+.ch {
+  padding: 1rem;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.ch:hover {
+  background: rgba(0, 0, 0, 0.02);
+}
+
+@media (prefers-color-scheme: dark) {
+  .ch:hover {
+    background: rgba(255, 255, 255, 0.03);
+  }
+}
+
+.ct {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.s {
+  color: var(--star);
+  margin-left: 0.5rem;
+}
+
+.sb {
+  display: flex;
+  gap: 1rem;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.cb {
+  padding: 0 1rem 1rem;
+  border-top: 1px solid var(--border);
+}
+
+.cm {
+  display: grid;
+  gap: 0.5rem;
+  padding: 1rem 0;
+  font-size: 0.9rem;
+}
+
+.cm a {
+  color: var(--link);
+  text-decoration: none;
+}
+
+.cm a:hover {
+  text-decoration: underline;
+  color: var(--link-hover);
+}
+
+.il {
+  font-size: 0.85rem;
+}
+
+/* Tags */
+.ok {
+  color: var(--ok);
+  font-weight: 600;
+}
+
+.no {
+  color: var(--no);
+  font-weight: 600;
+}
+
+/* Models table */
+.md table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.md th,
+.md td {
+  padding: 0.5rem;
+  text-align: left;
+  border-bottom: 1px solid var(--border);
+}
+
+.md th {
+  font-weight: 600;
+  background: var(--bg);
+}
+
+/* Blockquote */
+blockquote {
+  border-left: 3px solid var(--border);
+  margin: 1rem 0;
+  padding: 0.5rem 1rem;
+  color: var(--muted);
+  font-style: italic;
+}
+
+/* Footer */
+footer {
+  margin-top: 3rem;
+  padding: 1rem 0;
+  text-align: center;
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+footer a {
+  color: var(--link);
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+/* No results */
+.no-results {
+  margin-top: 1rem;
+  color: var(--muted);
+}
+
+/* Responsive */
+@media (min-width: 768px) {
+  .ch {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .sb {
+    margin-top: 0;
+  }
+}
+</style></head>
+<body><div class="co"><header>
+<h1>Awesome Free AI Inference APIs</h1><p class="coun">56 providers</p>
+<input type="text" id="search" class="se" onkeyup="filterCards()" placeholder="Search..." autofocus>
+<p id="noResults" style="display:none">No providers found.</p></header>
+<main id="list">
+<div class="c" data-n="a4f" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">A4F <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://www.a4f.co/models">https://www.a4f.co/models</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="ai horde" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">AI Horde <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://aihorde.net/details/models">https://aihorde.net/details/models</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="ai pooled" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">AI Pooled <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://ai.pooled.dev">https://ai.pooled.dev</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="aihubmix" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">AIHubMix <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://aihubmix.com/models">https://aihubmix.com/models</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="aichixia" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">AIchixia <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://www.aichixia.xyz/">https://www.aichixia.xyz/</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="apertis" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">Apertis <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://apertis.ai/models?sort=price_low">https://apertis.ai/models?sort=price_low</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="aquadevs" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">AquaDevs <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://aquadevs.com/plan">https://aquadevs.com/plan</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="awanllm" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">AwanLLM <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://www.awanllm.com/models">https://www.awanllm.com/models</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="blazeai" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">BlazeAI <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://blazeai.boxu.dev/#models">https://blazeai.boxu.dev/#models</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="cerebras" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">Cerebras <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://inference-docs.cerebras.ai/models/overview">https://inference-docs.cerebras.ai/models/overview</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="cloudflare workers" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">Cloudflare Workers <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://developers.cloudflare.com/workers-ai/models/">https://developers.cloudflare.com/workers-ai/models/</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="coderplan" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">CoderPlan <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://coderplan.ai">https://coderplan.ai</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="cohere" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">Cohere <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://docs.cohere.com/v1/docs/models#command">https://docs.cohere.com/v1/docs/models#command</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="fastrouter" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">FastRouter <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://fastrouter.ai/models/">https://fastrouter.ai/models/</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="freetheai" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">FreeTheAI <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://freetheai.xyz/models/">https://freetheai.xyz/models/</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="github models" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">GitHub Models <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://github.com/marketplace?type=models">https://github.com/marketplace?type=models</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="google ai studio" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">Google AI Studio <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://ai.google.dev/gemini-api/docs/models">https://ai.google.dev/gemini-api/docs/models</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="groq" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">Groq <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://console.groq.com/docs/models">https://console.groq.com/docs/models</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="hubs02225" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">Hubs02225 <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://hubs02225.snia.ch/">https://hubs02225.snia.ch/</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="inception platform" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">Inception Platform <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://platform.inceptionlabs.ai/">https://platform.inceptionlabs.ai/</a> </div>
+<div><b>Tested:</b> <span class="no">No</span></div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="llm-gateway" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">LLM-Gateway <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://llmgateway.io/models?filters=1&free=true">https://llmgateway.io/models?filters=1&free=true</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="llm7" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">LLM7 <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://llm7.io">https://llm7.io</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="literouter" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">LiteRouter <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://literouter.com/model_list">https://literouter.com/model_list</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="logfare" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">Logfare <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://logfare.ai/">https://logfare.ai/</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="mnn ai" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">MNN AI <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://mnnai.ru/">https://mnnai.ru/</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="meganova" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">MegaNova <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://console.meganova.ai/serverless">https://console.meganova.ai/serverless</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="mincapi" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">MincAPI <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://mincapi.space-z.ai/">https://mincapi.space-z.ai/</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-01</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="mistral" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">Mistral <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://docs.mistral.ai/getting-started/models/models_overview/">https://docs.mistral.ai/getting-started/models/models_overview/</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="mistral codestral" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">Mistral Codestral <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://docs.mistral.ai/getting-started/models">https://docs.mistral.ai/getting-started/models</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="mixedbread" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">Mixedbread <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://www.mixedbread.com/pricing">https://www.mixedbread.com/pricing</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="nvidia nim" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">NVIDIA NIM <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://build.nvidia.com/models">https://build.nvidia.com/models</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="nagaai" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">NagaAI <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://naga.ac/models">https://naga.ac/models</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="navy ai" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">Navy AI <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://api.navy">https://api.navy</a> </div>
+<div><b>Tested:</b> <span class="no">No</span></div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="nexusify" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">Nexusify <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://docs.nexusify.co/">https://docs.nexusify.co/</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="ohmygpt" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">OhMyGPT <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://www.ohmygpt.com/pricing">https://www.ohmygpt.com/pricing</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="ollama cloud" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">Ollama Cloud <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://ollama.com/api/tags">https://ollama.com/api/tags</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="opencode zen" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">OpenCode Zen <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://opencode.ai/zen/v1/models">https://opencode.ai/zen/v1/models</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="openrouter" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">OpenRouter <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://openrouter.ai/models?max_price=0">https://openrouter.ai/models?max_price=0</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="paxsenix api" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">PaxSenix API <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://api.paxsenix.org/docs">https://api.paxsenix.org/docs</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="pixazo ai" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">Pixazo AI <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://www.pixazo.ai/api/pricing-plan">https://www.pixazo.ai/api/pricing-plan</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="pollinations" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">Pollinations <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://enter.pollinations.ai/">https://enter.pollinations.ai/</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="pydantic ai gateway" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">Pydantic AI Gateway <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://ai.pydantic.dev/gateway/">https://ai.pydantic.dev/gateway/</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="requesty ai" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">Requesty AI <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://www.requesty.ai/solution/llm-routing/models?price=free">https://www.requesty.ai/solution/llm-routing/models?price=free</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="resurge" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">Resurge <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://www.resurge.one/models">https://www.resurge.one/models</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="routeway ai" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">Routeway AI <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://routeway.ai/models">https://routeway.ai/models</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="sixfingerapi" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">SixFingerAPI <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://api.sixfinger.live">https://api.sixfinger.live</a> </div>
+<div><b>Tested:</b> <span class="no">No</span></div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="studiolm" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">StudioLM <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://studiolm.dev/">https://studiolm.dev/</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="subnp" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">SubNP <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://subnp.com/free-api">https://subnp.com/free-api</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="subaxis" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">Subaxis <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://subaxis.dev/">https://subaxis.dev/</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="swiftrouter" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">SwiftRouter <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://swiftrouter.com/models?plan=starter">https://swiftrouter.com/models?plan=starter</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="unorouter" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">UnoRouter <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://unorouter.com/en">https://unorouter.com/en</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="valorgpt" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">ValorGPT <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://www.valorgpt.com/models">https://www.valorgpt.com/models</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="void ai" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">Void AI <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://voidai.app/">https://voidai.app/</a> </div>
+<div><b>Tested:</b> <span class="no">No</span></div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="xeven worker" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">Xeven Worker <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://ai-image-api.xeven.workers.dev/img">https://ai-image-api.xeven.workers.dev/img</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="z.ai" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">Z.AI <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://docs.z.ai/guides/overview/overview">https://docs.z.ai/guides/overview/overview</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div>
+<div class="c" data-n="zenllm" data-c="text">
+<div class="ch" onclick="tc(this)">
+<div class="ct">ZenLLM <span class="s">★★★☆☆</span></div>
+<div class="sb"><span>Stab ★★★☆☆</span><span>Choice ★★★☆☆</span><span>Limits ★★★☆☆</span></div></div>
+<div class="cb" style="display:none">
+<div class="cm">
+<div><b>URL:</b> <a href="https://zenllm.org/models">https://zenllm.org/models</a> </div>
+<div><b>Tested:</b> <span class="ok">Yes</span> 2026-07-14</div>
+<div><b>Limits:</b> See provider documentation</div>
+<div><b>Capabilities:</b> text</div>
+<div><b>Pricing:</b> unknown</div>
+<div><b>Community:</b> None</div></div>
+<details class="md"><summary>Models</summary><p>Not publicly listed.</p></details></div></div></main>
+<footer><p>Data from <a href="https://github.com/YoannDev90/awesome-free-ai-api">awesome-free-ai-api</a> &mdash; July 14, 2026 at 14:31 UTC</p></footer></div>
+<script>/* Toggle card body */
+function tc(header) {
+  const body = header.nextElementSibling;
+  if (body.style.display === 'none') {
+    body.style.display = 'block';
+  } else {
+    body.style.display = 'none';
+  }
+}
+
+/* Filter cards by search */
+function filterCards() {
+  const input = document.getElementById('search');
+  const filter = input.value.toLowerCase();
+  const cards = document.querySelectorAll('.c');
+  let visible = 0;
+
+  cards.forEach(card => {
+    const name = card.getAttribute('data-n').toLowerCase();
+    const caps = card.getAttribute('data-c').toLowerCase();
+    if (name.indexOf(filter) > -1 || caps.indexOf(filter) > -1) {
+      card.style.display = '';
+      visible++;
+    } else {
+      card.style.display = 'none';
+    }
+  });
+
+  const noResults = document.getElementById('noResults');
+  noResults.style.display = visible > 0 ? 'none' : 'block';
+}
+
+/* Deep link support */
+document.addEventListener('DOMContentLoaded', function () {
+  const params = new URLSearchParams(window.location.search);
+  const provider = params.get('provider');
+  if (provider) {
+    const card = document.querySelector(`.c[data-n*="${provider.toLowerCase()}"]`);
+    if (card) {
+      const header = card.querySelector('.ch');
+      header.click();
+      card.scrollIntoView({ behavior: 'smooth' });
+    }
+  }
+});
+</script></body></html>
