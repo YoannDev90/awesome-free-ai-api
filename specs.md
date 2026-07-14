@@ -463,7 +463,7 @@ git push
 | Question | Decision |
 |---|---|
 | PROVIDERS.md committed? | No — CI generates on main |
-| API key management | Option D — maintainer-only SOPS key, contribs submit keys via PR |
+| API key management | Maintainer-only SOPS key, contribs never submit keys |
 | PR new-key reminder | Auto-comment on PR detecting `api_key_env` |
 | Context unit | Normalize to tokens |
 | Pagination | Follow all pages |
