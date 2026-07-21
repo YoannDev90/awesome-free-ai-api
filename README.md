@@ -87,9 +87,9 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 | [ValorGPT](https://www.valorgpt.com/models)                                                  | [Models](https://gratisfy.xyz/terminal?cap=none&providers=valorgpt)            | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-20   | [Status](https://gratisfy.xyz/status) |
 | [Void AI](https://voidai.app/)                                                               | [Models](https://gratisfy.xyz/terminal?cap=none&providers=voidai)              | [Requirements](https://gratisfy.xyz/providers) | ❌      | 2026-07-20   | [Status](https://gratisfy.xyz/status) |
 | [Xeven Worker](https://ai-image-api.xeven.workers.dev/img)                                   | [Models](https://gratisfy.xyz/terminal?cap=none&providers=xeven-worker)        | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-20   | [Status](https://gratisfy.xyz/status) |
+| [Yingsuan AI](https://yingsuan.top/) | DeepSeek, Kimi K3 (2.8T), GLM-4, Qwen2.5 + 3 free | Email only (no CC) | ✅ | 2026-07-21 | [Status](https://yingsuan.top/) |
 | [Z.AI](https://docs.z.ai/guides/overview/overview)                                           | [Models](https://gratisfy.xyz/terminal?cap=none&providers=zai)                 | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-20   | [Status](https://gratisfy.xyz/status) |
 | [ZenLLM](https://zenllm.org/models)                                                          | [Models](https://gratisfy.xyz/terminal?cap=none&providers=zenllm)              | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-20   | [Status](https://gratisfy.xyz/status) |
-| [Yingsuan AI](https://yingsuan.top/) | DeepSeek, Kimi K3 (2.8T), GLM-4, Qwen2.5 + 3 free | Email only (no CC) | ✅ | 2026-07-21 | [Status](https://yingsuan.top/) |
 
 ---
 
