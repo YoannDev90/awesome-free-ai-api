@@ -6,7 +6,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 ![GitHub forks](https://img.shields.io/github/forks/YoannDev90/awesome-free-ai-api?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/YoannDev90/awesome-free-ai-api?style=for-the-badge&label=issues)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/YoannDev90/awesome-free-ai-api?style=for-the-badge&label=pull%20requests)
-![API count](https://img.shields.io/badge/API_Count-56-blue?style=for-the-badge)
+![API count](https://img.shields.io/badge/API_Count-57-blue?style=for-the-badge)
 
 ![Alt](https://repobeats.axiom.co/api/embed/1e91e9854d6f1da8fb7d9123fe83345a334c7435.svg "Repobeats analytics image")
 
@@ -89,6 +89,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 | [Xeven Worker](https://ai-image-api.xeven.workers.dev/img)                                   | [Models](https://gratisfy.xyz/terminal?cap=none&providers=xeven-worker)        | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-20   | [Status](https://gratisfy.xyz/status) |
 | [Z.AI](https://docs.z.ai/guides/overview/overview)                                           | [Models](https://gratisfy.xyz/terminal?cap=none&providers=zai)                 | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-20   | [Status](https://gratisfy.xyz/status) |
 | [ZenLLM](https://zenllm.org/models)                                                          | [Models](https://gratisfy.xyz/terminal?cap=none&providers=zenllm)              | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-20   | [Status](https://gratisfy.xyz/status) |
+| [Yingsuan AI](https://yingsuan.top/) | DeepSeek, Kimi K3 (2.8T), GLM-4, Qwen2.5 + 3 free | Email only (no CC) | ✅ | 2026-07-21 | [Status](https://yingsuan.top/) |
 
 ---
 
