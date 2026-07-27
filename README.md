@@ -6,7 +6,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 ![GitHub forks](https://img.shields.io/github/forks/YoannDev90/awesome-free-ai-api?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/YoannDev90/awesome-free-ai-api?style=for-the-badge&label=issues)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/YoannDev90/awesome-free-ai-api?style=for-the-badge&label=pull%20requests)
-![API count](https://img.shields.io/badge/API_Count-57-blue?style=for-the-badge)
+![API count](https://img.shields.io/badge/API_Count-58-blue?style=for-the-badge)
 
 ![Alt](https://repobeats.axiom.co/api/embed/1e91e9854d6f1da8fb7d9123fe83345a334c7435.svg "Repobeats analytics image")
 
@@ -50,6 +50,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 | [FreeTheAI](https://freetheai.xyz/models/)                                                   | [Models](https://gratisfy.xyz/terminal?cap=none&providers=secrets)             | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-26   | [Status](https://gratisfy.xyz/status) |
 | [GitHub Models](https://github.com/marketplace?type=models)                                  | [Models](https://gratisfy.xyz/terminal?cap=none&providers=github-models)       | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-26   | [Status](https://gratisfy.xyz/status) |
 | [Google AI Studio](https://ai.google.dev/gemini-api/docs/models)                             | [Models](https://gratisfy.xyz/terminal?cap=none&providers=google-ai-studio)    | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-26   | [Status](https://gratisfy.xyz/status) |
+| [Gracestack Chat](https://tools.gracestack.se/chat.html)                                     | Qwen3-32B (OpenAI-compatible)                                                  | None (10 msgs/day, no signup)                  | ✅      | 2026-07-27   | [Status](https://tools.gracestack.se/api/chat) |
 | [Groq](https://console.groq.com/docs/models)                                                 | [Models](https://gratisfy.xyz/terminal?cap=none&providers=groq)                | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-26   | [Status](https://gratisfy.xyz/status) |
 | [Hubs02225](https://hubs02225.snia.ch/)                                                      | [Models](https://gratisfy.xyz/terminal?cap=none&providers=hubs02225)           | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-07-26   | [Status](https://gratisfy.xyz/status) |
 | [Inception Platform](https://platform.inceptionlabs.ai/)                                                              | [Models](https://docs.inceptionlabs.ai/get-started/models#models-endpoints-and-pricing)                                           | [Requirements](https://docs.inceptionlabs.ai/get-started/get-started)           | ❌      | 2026-07-26   | [Status](https://platform.inceptionlabs.ai/) |
@@ -166,7 +167,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 
 - **July 2026**
 ```diff
-+ Add MincAPI, SixFingerAPI, Subaxis, UnoRouter, Logfare, AIchixia, AI Pooled
++ Add MincAPI, SixFingerAPI, Subaxis, UnoRouter, Logfare, AIchixia, AI Pooled, Gracestack Chat
 - Remove Friendli AI
 ```
 
