@@ -1,3 +1,6 @@
+
+</think>
+
 # 🤖 AWESOME FREE AI INFERENCE APIS
 
 A list of APIs providing AI models, free of charge, as well as the models available. Regular updates.
@@ -176,7 +179,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 
 Contributions are welcome! To suggest a new API or update existing ones:
 
-- Open an issue with details about the API.
+- Open an issue using the [Add provider](https://github.com/YoannDev90/awesome-free-ai-api/issues/new/choose) template.
 - Submit a pull request with your changes.
 
 Please ensure updates are accurate and follow the format.
