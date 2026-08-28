@@ -6,7 +6,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 ![GitHub forks](https://img.shields.io/github/forks/YoannDev90/awesome-free-ai-api?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/YoannDev90/awesome-free-ai-api?style=for-the-badge&label=issues)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/YoannDev90/awesome-free-ai-api?style=for-the-badge&label=pull%20requests)
-![API count](https://img.shields.io/badge/API_Count-60-blue?style=for-the-badge)
+![API count](https://img.shields.io/badge/API_Count-65-blue?style=for-the-badge)
 
 ![Alt](https://repobeats.axiom.co/api/embed/1e91e9854d6f1da8fb7d9123fe83345a334c7435.svg "Repobeats analytics image")
 
@@ -38,12 +38,15 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 | [AI Pooled](https://ai.pooled.dev)                                                           | [Models](https://gratisfy.xyz/terminal?cap=none&providers=ai-pooled)           | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-08-27   | [Status](https://gratisfy.xyz/status) |
 | [AIchixia](https://www.aichixia.xyz/)                                                        | [Models](https://gratisfy.xyz/terminal?cap=none&providers=aichixia)            | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-08-27   | [Status](https://gratisfy.xyz/status) |
 | [AIHubMix](https://aihubmix.com/models)                                                      | [Models](https://gratisfy.xyz/terminal?cap=none&providers=aihubmix)            | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-08-27   | [Status](https://gratisfy.xyz/status) |
+| [AnyAPI](https://anyapi.ai/pricing)                                                           | [Models](https://gratisfy.xyz/terminal?cap=none&providers=anyapi)              | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-08-28   | [Status](https://gratisfy.xyz/status) |
 | [Apertis](https://apertis.ai/models?sort=price_low)                                          | [Models](https://gratisfy.xyz/terminal?cap=none&providers=apertis)             | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-08-27   | [Status](https://gratisfy.xyz/status) |
 | [AquaDevs](https://aquadevs.com/plan)                                                        | [Models](https://gratisfy.xyz/terminal?cap=none&providers=aquadevs)            | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-08-27   | [Status](https://gratisfy.xyz/status) |
 | [AwanLLM](https://www.awanllm.com/models)                                                    | [Models](https://gratisfy.xyz/terminal?cap=none&providers=awanllm)             | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-08-27   | [Status](https://gratisfy.xyz/status) |
+| [BazaarLink](https://bazaarlink.ai/free)                                                     | [Models](https://gratisfy.xyz/terminal?cap=none&providers=bazaarlink)          | [Requirements](https://bazaarlink.ai/free)     | ✅      | 2026-08-28   | [Status](https://gratisfy.xyz/status) |
 | [BlazeAI](https://blazeai.boxu.dev/#models)                                                  | [Models](https://gratisfy.xyz/terminal?cap=none&providers=blazeai)             | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-08-27   | [Status](https://gratisfy.xyz/status) |
 | [Cerebras](https://inference-docs.cerebras.ai/models/overview)                               | [Models](https://gratisfy.xyz/terminal?cap=none&providers=cerebras)            | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-08-27   | [Status](https://gratisfy.xyz/status) |
 | [Cloudflare Workers](https://developers.cloudflare.com/workers-ai/models/)                   | [Models](https://gratisfy.xyz/terminal?cap=none&providers=cloudflare)          | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-08-27   | [Status](https://gratisfy.xyz/status) |
+| [Coze](https://www.coze.com/open)                                                            | [Models](https://gratisfy.xyz/terminal?cap=none&providers=coze)                | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-08-28   | [Status](https://gratisfy.xyz/status) |
 | [CoderPlan](https://coderplan.ai)                                                              | [Models](https://coderplan.ai/models)                                           | [Requirements](https://coderplan.ai)           | ✅      | 2026-08-27   | [Status](https://coderplan.ai) |
 | [Cohere](https://docs.cohere.com/v1/docs/models#command)                                     | [Models](https://gratisfy.xyz/terminal?cap=none&providers=cohere)              | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-08-27   | [Status](https://gratisfy.xyz/status) |
 | [DGrid AI](https://dgrid.ai/models/dgridai/free/)                                            | [Models](https://dgrid.ai/models/dgridai/free/)                                | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-08-28   | [Status](https://gratisfy.xyz/status) |
@@ -53,8 +56,10 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 | [GitHub Models](https://github.com/marketplace?type=models)                                  | [Models](https://gratisfy.xyz/terminal?cap=none&providers=github-models)       | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-08-27   | [Status](https://gratisfy.xyz/status) |
 | [Google AI Studio](https://ai.google.dev/gemini-api/docs/models)                             | [Models](https://gratisfy.xyz/terminal?cap=none&providers=google-ai-studio)    | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-08-27   | [Status](https://gratisfy.xyz/status) |
 | [Groq](https://console.groq.com/docs/models)                                                 | [Models](https://gratisfy.xyz/terminal?cap=none&providers=groq)                | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-08-27   | [Status](https://gratisfy.xyz/status) |
+| [Hetzner Inference](https://experiments.hetzner.com)                                          | [Models](https://gratisfy.xyz/terminal?cap=none&providers=hetzner)             | [Requirements](https://docs.hetzner.com/general/company-and-policy/experiments/inference/) | ✅      | 2026-08-28   | [Status](https://gratisfy.xyz/status) |
 | [Hubs02225](https://hubs02225.snia.ch/)                                                      | [Models](https://gratisfy.xyz/terminal?cap=none&providers=hubs02225)           | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-08-27   | [Status](https://gratisfy.xyz/status) |
 | [Inception Platform](https://platform.inceptionlabs.ai/)                                                              | [Models](https://docs.inceptionlabs.ai/get-started/models#models-endpoints-and-pricing)                                           | [Requirements](https://docs.inceptionlabs.ai/get-started/get-started)           | ❌      | 2026-08-27   | [Status](https://platform.inceptionlabs.ai/) |
+| [Inference.net](https://inference.net)                                                      | [Models](https://inference.net/models/)                                           | [Requirements](https://docs.inference.net/api/api-quickstart)           | ✅      | 2026-08-28   | [Status](https://inference.net) |
 | [LiteRouter](https://literouter.com/model_list)                                              | [Models](https://gratisfy.xyz/terminal?cap=none&providers=literouter)          | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-08-27   | [Status](https://gratisfy.xyz/status) |
 | [LLM-Gateway](https://llmgateway.io/models?filters=1&free=true)                              | [Models](https://gratisfy.xyz/terminal?cap=none&providers=llmgateway)          | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-08-27   | [Status](https://gratisfy.xyz/status) |
 | [LLM7](https://llm7.io)                                                                      | [Models](https://gratisfy.xyz/terminal?cap=none&providers=llm7)                | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-08-27   | [Status](https://gratisfy.xyz/status) |
@@ -175,7 +180,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 
 - **August 2026**
 ```diff
-+ Add Ofox, DGrid AI, Flowbar AI
++ Add Ofox, DGrid AI, Flowbar AI, Coze, Inference.net, Hetzner Inference, BazaarLink, AnyAPI
 ```
 
 </details>
