@@ -41,7 +41,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 | [AnyAPI](https://anyapi.ai/pricing)                                                           | [Models](https://gratisfy.xyz/terminal?cap=none&providers=anyapi)              | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-08-28   | [Status](https://gratisfy.xyz/status) |
 | [Apertis](https://apertis.ai/models?sort=price_low)                                          | [Models](https://gratisfy.xyz/terminal?cap=none&providers=apertis)             | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-08-27   | [Status](https://gratisfy.xyz/status) |
 | [AquaDevs](https://aquadevs.com/plan)                                                        | [Models](https://gratisfy.xyz/terminal?cap=none&providers=aquadevs)            | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-08-27   | [Status](https://gratisfy.xyz/status) |
-| [Autessa](https://docs.autessa.com/)                                                        | [Models](https://docs.autessa.com/docs/api/)                                  | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-08-28   | [Status](https://gratisfy.xyz/status) |
+| [Atessa](https://atessa.top/)                                                                | [Models](https://atessa.top/)                                                  | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-08-28   | [Status](https://atessa.top/) |
 | [AwanLLM](https://www.awanllm.com/models)                                                    | [Models](https://gratisfy.xyz/terminal?cap=none&providers=awanllm)             | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-08-27   | [Status](https://gratisfy.xyz/status) |
 | [BazaarLink](https://bazaarlink.ai/free)                                                     | [Models](https://gratisfy.xyz/terminal?cap=none&providers=bazaarlink)          | [Requirements](https://bazaarlink.ai/free)     | ✅      | 2026-08-28   | [Status](https://gratisfy.xyz/status) |
 | [BlazeAI](https://blazeai.boxu.dev/#models)                                                  | [Models](https://gratisfy.xyz/terminal?cap=none&providers=blazeai)             | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-08-27   | [Status](https://gratisfy.xyz/status) |
@@ -188,7 +188,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 
 - **August 2026**
 ```diff
-+ Add Ofox, DGrid AI, Flowbar AI, Coze, Inference.net, Hetzner Inference, BazaarLink, AnyAPI, Autessa, Crax GPT, Electron Hub, EvolveX, IBM watsonx.ai, Rout.my, TokenReply, Vercel AI Gateway
++ Add Ofox, DGrid AI, Flowbar AI, Coze, Inference.net, Hetzner Inference, BazaarLink, AnyAPI, Atessa, Crax GPT, Electron Hub, EvolveX, IBM watsonx.ai, Rout.my, TokenReply, Vercel AI Gateway
 ```
 
 </details>
