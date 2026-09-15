@@ -215,3 +215,5 @@ Please ensure updates are accurate and follow the format.
 - @morrisdweck (Discord)
 - @onepaperbox (Github)
 - [gratisfy.xyz](https://gratisfy.xyz/providers)
+- [HostDeFi](https://hostdefi.com) - Free token-safety REST API — keyless, 100 checks/day per IP; A+–F grades for tokens on Solana and 8 EVM chains. [OpenAPI](https://hostdefi.com/openapi.json)
+
