@@ -6,7 +6,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 ![GitHub forks](https://img.shields.io/github/forks/YoannDev90/awesome-free-ai-api?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/YoannDev90/awesome-free-ai-api?style=for-the-badge&label=issues)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/YoannDev90/awesome-free-ai-api?style=for-the-badge&label=pull%20requests)
-![API count](https://img.shields.io/badge/API_Count-79-blue?style=for-the-badge)
+![API count](https://img.shields.io/badge/API_Count-80-blue?style=for-the-badge)
 
 ![Alt](https://repobeats.axiom.co/api/embed/1e91e9854d6f1da8fb7d9123fe83345a334c7435.svg "Repobeats analytics image")
 
@@ -86,6 +86,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 | [Ofox](https://ofox.ai/models)                                                                | [Models](https://gratisfy.xyz/terminal?cap=none&providers=ofox)                | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-09-21   | [Status](https://gratisfy.xyz/status) |
 | [OhMyGPT](https://www.ohmygpt.com/pricing)                                                   | [Models](https://gratisfy.xyz/terminal?cap=none&providers=ohmygpt)             | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-09-21   | [Status](https://gratisfy.xyz/status) |
 | [Ollama Cloud](https://ollama.com/api/tags)                                                  | [Models](https://gratisfy.xyz/terminal?cap=none&providers=ollama)              | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-09-21   | [Status](https://gratisfy.xyz/status) |
+| [Onomeo](https://onomeo.com/)                                                               | [Models](https://onomeo.com/models)                                            | [Requirements](https://onomeo.com/docs)        | ✅      | 2026-09-22   | [Status](https://onomeo.com/api/info) |
 | [OpenCode Zen](https://opencode.ai/zen/v1/models)                                            | [Models](https://gratisfy.xyz/terminal?cap=none&providers=opencode-zen)        | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-09-21   | [Status](https://gratisfy.xyz/status) |
 | [OpenRouter](https://openrouter.ai/models?max_price=0)                                       | [Models](https://gratisfy.xyz/terminal?cap=none&providers=openrouter)          | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-09-21   | [Status](https://gratisfy.xyz/status) |
 | [PaxSenix API](https://api.paxsenix.org/docs)                                                | [Models](https://gratisfy.xyz/terminal?cap=none&providers=paxsenix)            | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-09-21   | [Status](https://gratisfy.xyz/status) |
