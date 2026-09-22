@@ -6,7 +6,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 ![GitHub forks](https://img.shields.io/github/forks/YoannDev90/awesome-free-ai-api?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/YoannDev90/awesome-free-ai-api?style=for-the-badge&label=issues)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/YoannDev90/awesome-free-ai-api?style=for-the-badge&label=pull%20requests)
-![API count](https://img.shields.io/badge/API_Count-78-blue?style=for-the-badge)
+![API count](https://img.shields.io/badge/API_Count-79-blue?style=for-the-badge)
 
 ![Alt](https://repobeats.axiom.co/api/embed/1e91e9854d6f1da8fb7d9123fe83345a334c7435.svg "Repobeats analytics image")
 
@@ -79,6 +79,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 | [Mixedbread](https://www.mixedbread.com/pricing)                                             | [Models](https://gratisfy.xyz/terminal?cap=none&providers=mixedbread)          | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-09-21   | [Status](https://gratisfy.xyz/status) |
 | [MNN AI](https://mnnai.ru/)                                                                  | [Models](https://gratisfy.xyz/terminal?cap=none&providers=mnn)                 | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-09-21   | [Status](https://gratisfy.xyz/status) |
 | [NagaAI](https://naga.ac/models)                                                             | [Models](https://gratisfy.xyz/terminal?cap=none&providers=naga)                | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-09-21   | [Status](https://gratisfy.xyz/status) |
+| [NaraRouter](https://router.bynara.id/) | [Models](https://router.bynara.id/ai-models) | [Requirements](https://router.bynara.id/register) | ✅ | 2026-09-22 | [Status](https://router.bynara.id/) |
 | [Navy AI](https://api.navy)                                                                  | [Models](https://gratisfy.xyz/terminal?cap=none&providers=navy)                | [Requirements](https://gratisfy.xyz/providers) | ❌      | 2026-09-21   | [Status](https://gratisfy.xyz/status) |
 | [Nexusify](https://docs.nexusify.co/)                                                        | [Models](https://gratisfy.xyz/terminal?cap=none&providers=nexusify)            | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-09-21   | [Status](https://gratisfy.xyz/status) |
 | [NVIDIA NIM](https://build.nvidia.com/models)                                                | [Models](https://gratisfy.xyz/terminal?cap=none&providers=nvidia-nim)          | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-09-21   | [Status](https://gratisfy.xyz/status) |
