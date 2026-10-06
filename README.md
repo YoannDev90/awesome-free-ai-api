@@ -6,7 +6,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 ![GitHub forks](https://img.shields.io/github/forks/YoannDev90/awesome-free-ai-api?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/YoannDev90/awesome-free-ai-api?style=for-the-badge&label=issues)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/YoannDev90/awesome-free-ai-api?style=for-the-badge&label=pull%20requests)
-![API count](https://img.shields.io/badge/API_Count-80-blue?style=for-the-badge)
+![API count](https://img.shields.io/badge/API_Count-81-blue?style=for-the-badge)
 
 ![Alt](https://repobeats.axiom.co/api/embed/1e91e9854d6f1da8fb7d9123fe83345a334c7435.svg "Repobeats analytics image")
 
@@ -53,6 +53,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 | [Coze](https://www.coze.com/open)                                                            | [Models](https://gratisfy.xyz/terminal?cap=none&providers=coze)                | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-10-06   | [Status](https://gratisfy.xyz/status) |
 | [Crax GPT](https://gpt.crax.lol/)                                                            | [Models](https://gpt.crax.lol/models)                                          | [Requirements](https://gpt.crax.lol/)         | ✅      | 2026-10-06   | [Status](https://gpt.crax.lol/) |
 | [DGrid AI](https://dgrid.ai/models/dgridai/free/)                                            | [Models](https://dgrid.ai/models/dgridai/free/)                                | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-10-06   | [Status](https://gratisfy.xyz/status) |
+| [DLab Pulse](https://dlabkeys.com/dlab-pulse.html)                                           | [Models](https://dlabkeys.com/dlab-pulse.html)                                 | [Requirements](https://dlabkeys.com/setup-guide.html) | ❌ | 2026-10-06 | |
 | [Electron Hub](https://www.electronhub.ai/)                                                   | [Models](https://www.electronhub.ai/pricing)                                  | [Requirements](https://app.electronhub.ai)     | ✅      | 2026-10-06   | [Status](https://www.electronhub.ai/) |
 | [EvolveX](https://www.evolvex.gg/)                                                            | [Models](https://www.evolvex.gg/docs)                                          | [Requirements](https://www.evolvex.gg/docs)    | ✅      | 2026-10-06   | [Status](https://www.evolvex.gg/) |
 | [FastRouter](https://fastrouter.ai/models/)                                                  | [Models](https://gratisfy.xyz/terminal?cap=none&providers=fastrouter)          | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-10-06   | [Status](https://gratisfy.xyz/status) |
@@ -196,6 +197,11 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 - **August 2026**
 ```diff
 + Add Ofox, DGrid AI, Flowbar AI, Coze, Inference.net, Hetzner Inference, BazaarLink, AnyAPI, Atessa, Crax GPT, Electron Hub, EvolveX, IBM watsonx.ai, Rout.my, TokenReply, Vercel AI Gateway, Completions, FreeInference, Hugging Face Inference, SambaNova Cloud, SiliconFlow
+```
+
+- **October 2026**
+```diff
++ Add DLab Pulse
 ```
 
 </details>
