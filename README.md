@@ -200,6 +200,11 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 + Add Ofox, DGrid AI, Flowbar AI, Coze, Inference.net, Hetzner Inference, BazaarLink, AnyAPI, Atessa, Crax GPT, Electron Hub, EvolveX, IBM watsonx.ai, Rout.my, TokenReply, Vercel AI Gateway, Completions, FreeInference, Hugging Face Inference, SambaNova Cloud, SiliconFlow
 ```
 
+- **September 2026**
+```diff
++ Add NaraRouter, Onomeo
+```
+
 - **October 2026**
 ```diff
 + Add DLab Pulse, TokenHarbor
