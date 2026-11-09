@@ -204,7 +204,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 
 - **November 2026**
 ```diff
-+ Remove ZenLLM, Resurge, SwiftRouter, SixFinger API, Hubs, Crax, Completions
+- Remove ZenLLM, Resurge, SwiftRouter, SixFinger API, Hubs, Crax, Completions
 ```
 
 </details>
