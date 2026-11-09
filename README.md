@@ -114,8 +114,6 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 | [Xeven Worker](https://ai-image-api.xeven.workers.dev/img)                                   | [Models](https://gratisfy.xyz/terminal?cap=none&providers=xeven-worker)        | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-11-08   | [Status](https://gratisfy.xyz/status) |
 | [Yingsuan AI](https://yingsuan.top/) | DeepSeek, Kimi K3 (2.8T), GLM-4, Qwen2.5 + 3 free | Email only (no CC) | ✅ | 2026-11-08 | [Status](https://yingsuan.top/) |
 | [Z.AI](https://docs.z.ai/guides/overview/overview)                                           | [Models](https://gratisfy.xyz/terminal?cap=none&providers=zai)                 | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-11-08   | [Status](https://gratisfy.xyz/status) |
-| [ZenLLM](https://zenllm.org/models)                                                          | [Models](https://gratisfy.xyz/terminal?cap=none&providers=zenllm)              | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-11-08   | [Status](https://gratisfy.xyz/status) |
-
 ---
 
 > [!TIP]
@@ -208,6 +206,11 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 - **October 2026**
 ```diff
 + Add DLab Pulse, TokenHarbor
+```
+
+- **November 2026**
+```diff
++ Remove ZenLLM
 ```
 
 </details>
