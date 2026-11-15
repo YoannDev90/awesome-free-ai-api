@@ -6,7 +6,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 ![GitHub forks](https://img.shields.io/github/forks/YoannDev90/awesome-free-ai-api?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/YoannDev90/awesome-free-ai-api?style=for-the-badge&label=issues)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/YoannDev90/awesome-free-ai-api?style=for-the-badge&label=pull%20requests)
-![API count](https://img.shields.io/badge/API_Count-76-blue?style=for-the-badge)
+![API count](https://img.shields.io/badge/API_Count-77-blue?style=for-the-badge)
 
 ![Alt](https://repobeats.axiom.co/api/embed/1e91e9854d6f1da8fb7d9123fe83345a334c7435.svg "Repobeats analytics image")
 
@@ -46,6 +46,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 | [BazaarLink](https://bazaarlink.ai/free)                                                     | [Models](https://gratisfy.xyz/terminal?cap=none&providers=bazaarlink)          | [Requirements](https://bazaarlink.ai/free)     | ✅      | 2026-11-14   | [Status](https://gratisfy.xyz/status) |
 | [BlazeAI](https://blazeai.boxu.dev/#models)                                                  | [Models](https://gratisfy.xyz/terminal?cap=none&providers=blazeai)             | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-11-14   | [Status](https://gratisfy.xyz/status) |
 | [Cerebras](https://inference-docs.cerebras.ai/models/overview)                               | [Models](https://gratisfy.xyz/terminal?cap=none&providers=cerebras)            | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-11-14   | [Status](https://gratisfy.xyz/status) |
+| [cheapllm.shop](https://cheapllm.shop)                                                       | [Models](https://cheapllm.shop/docs)                                           | [Requirements](https://cheapllm.shop/docs#free-tier) |        | 2026-11-15   |                                       |
 | [Cloudflare Workers](https://developers.cloudflare.com/workers-ai/models/)                   | [Models](https://gratisfy.xyz/terminal?cap=none&providers=cloudflare)          | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-11-14   | [Status](https://gratisfy.xyz/status) |
 | [CoderPlan](https://coderplan.ai)                                                              | [Models](https://coderplan.ai/models)                                           | [Requirements](https://coderplan.ai)           | ✅      | 2026-11-14   | [Status](https://coderplan.ai) |
 | [Cohere](https://docs.cohere.com/v1/docs/models#command)                                     | [Models](https://gratisfy.xyz/terminal?cap=none&providers=cohere)              | [Requirements](https://gratisfy.xyz/providers) | ✅      | 2026-11-14   | [Status](https://gratisfy.xyz/status) |
@@ -205,6 +206,7 @@ A list of APIs providing AI models, free of charge, as well as the models availa
 
 - **November 2026**
 ```diff
++ Add cheapllm.shop
 - Remove ZenLLM, Resurge, SwiftRouter, SixFinger API, Hubs, Crax, Completions
 ```
 
